@@ -6,7 +6,7 @@ from Car import Car
 from CarElectric import CarElectric
 
 if __name__ == "__main__":
-    my_new_car = Car("Mazda", "CX-9", 2017)
+    my_new_car = Car("Mazda", "CX-9", 2003)
     print('My car\'s description :', my_new_car.get_description_name())
     print('My car\'s odometer is :', my_new_car.get_odometer())
     my_new_car.update_odometer(70)

@@ -22,7 +22,7 @@ elif age<65:
 else:
     print("Over 65)
 
-print("Doug", "Carlos", "Mike", sep=", ",
+print("Doug", "abc", "Mike", sep=", ",
     end="\n", file=sys.stderr)
 
 strings

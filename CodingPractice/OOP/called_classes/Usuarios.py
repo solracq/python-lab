@@ -49,9 +49,9 @@ class Privileges():
 
 #--------------------------------------------------------------------------
 if __name__ == "__main__":
-    user1 = Usuarios("Koko", "Keui", "Republican", 123456, "Mu Aries")
-    user2 = Usuarios("Carlitos", "Qui", "Democrat", 654321, "Ikki")
-    user3 = Usuarios("Nom", "Qui", "Democarat", 9684500, "Saori Kido")
+    user1 = Usuarios("asdf", "Keui", "lin", 123456, "Mu Aries")
+    user2 = Usuarios("asdf", "Qa", "Dem", 654321, "Isbv")
+    user3 = Usuarios("sadf", "Qa", "arat", 9684500, "Saori yrdy")
     user1.describe_user()
     user2.describe_user()
     user3.describe_user()

@@ -81,7 +81,7 @@ print("The guest that cannot make is ,", cant_makeit)
 list_.insert(4, "k")
 print("New List with a new invitee", list_)
 for element in list_:
-    print("{} you are invited to Carlitos' party".format(element))
+    print("{} you are invited to Avc' party".format(element))
 print()    
 
 print("found a bigger table for the invitees")
@@ -111,9 +111,9 @@ pizza_flavors=["hawaian", "pesto-bacon", "goat cheese w/spinash", "ranchera"]
 for pizza_flavor in pizza_flavors:
     print("I like {} pizza".format(pizza_flavor))
     if pizza_flavor == pizza_flavors[0]:
-        print("Carlitos and Naomi really like", pizza_flavor)
+        print("Abc and test really like", pizza_flavor)
     elif pizza_flavor == pizza_flavors[2]:
-        print("Mama Yu and papa Carlos really like", pizza_flavor)
+        print("qzg dasf and pafd dsaf really like", pizza_flavor)
 print("I really love pizza!")
 print()
 
@@ -186,8 +186,8 @@ print(subsets__,"\n")
 carlitos_pizza_flav = pizza_flavors[:]
 print(carlitos_pizza_flav,"\n")
 carlitos_pizza_flav.append("pepperoni")
-print("carlitos",carlitos_pizza_flav,"\n")
-print("papa", pizza_flavors,"\n")
+print("adsf",carlitos_pizza_flav,"\n")
+print("dfsdf", pizza_flavors,"\n")
 for flavor_papa in pizza_flavors[1:4]:
     print("flavorPapa",flavor_papa)
 print()

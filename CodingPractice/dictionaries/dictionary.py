@@ -55,7 +55,7 @@ def compare_dicts(dict_a, dict_b):
         return f"{dict_a} and {dict_b} are EQUALS on: \n{equals}"
 
 if __name__ == "__main__":
-    s = "Naomi and Carlitos are very super duper cute"
+    s = "they are very super duper cute"
     list_num = [random.randint(10, 90) for i in range(10)]
     list_words = ['kiwi', 'banana', 'strawberry', 'orange', 'blueberry', 'mango', 'pear', 'apple', 'rasperry', 'melon',
                   'papaya', 'watermelon']
@@ -74,8 +74,8 @@ if __name__ == "__main__":
                             'hobbies': 'soccer',
                             'movies': 'Aladdin',
                             },
-                "nquiroz": {
-                            'name': 'Naomi Quiroz',
+                "nqsdf": {
+                            'name': 'Abc Efg',
                             'number': list_num[5],
                             'month': tuple_months[3],
                             'fruit': list_words[1],
@@ -84,8 +84,8 @@ if __name__ == "__main__":
                             'hobbies': 'singing',
                             'movies': 'princess movies',
                             },
-                "yuyis": {
-                         'name': 'Yu',
+                "yabc": {
+                         'name': 'Abc',
                          'number': list_num[random.randint(0,9)],
                          'month': tuple_months[9],
                          'fruit': list_words[5],

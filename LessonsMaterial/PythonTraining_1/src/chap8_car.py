@@ -1,6 +1,4 @@
 '''
-Created on Sep 26, 2013
-
 @author: cquiroz
 '''
 

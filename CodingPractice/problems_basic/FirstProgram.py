@@ -37,8 +37,8 @@ print("removing the b=",format(5, 'b'))
 #Appending strings and input() stirngs
 s="Apending and input() strings"
 print(s.upper())
-name="Carlitos"
-lastName="Quiroz"
+name="awfg"
+lastName="abc"
 print(name,lastName)
 name=input("What is your name?")
 print(name)
@@ -50,7 +50,7 @@ print(type(age))
 print(name+age) # This is possible because name and age are of 'str' type
 age2=4
 print(type(age2))
-print("Carlitos"+str(age2)) # This is not possible as '+' can ONLY concatenate str with str types. So we need to convert the int variable to str by using str()
+print("dsafdsftos"+str(age2)) # This is not possible as '+' can ONLY concatenate str with str types. So we need to convert the int variable to str by using str()
 dec=19.8
 print(dec, "vs", int(dec))
 

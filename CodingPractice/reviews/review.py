@@ -567,12 +567,12 @@ def merge_sort(lista):
             k += 1
     
 def string_manipulation():
-    s = "Naomi and Carlitos are very super duper cute" 
+    s = "They are very super duper cute"
     print(s.swapcase())
     print(s.find('N'))
     print(s.rfind('n'))
     print(s.replace('duper', 'dupper', 1))
-    print(s.index('Carlitos'))
+    print(s.index('abc'))
     print('min', min(s))
     print('max', max(s))
     if s.startswith(s[0]):
@@ -598,14 +598,14 @@ def string_manipulation():
         print('Not found "x"')
     print("'oo' was found on {}, one at {} and the other at {}".format(s, s.find('o'), s.rfind('o')))
     print("'oo' was found on {}, one at {} and the other at {}".format(s, s.index('o'), s.rindex('o')))
-    s2 = "Cute Naomi, chula"
+    s2 = "Cute abc, chula"
     print(s2.title())
     print(s2.swapcase())
     print(s2.split())
     print(s2.split(',', 1))
     listas = list(s2)
     print("+".join(listas))
-    s1 = "El cArLiToS quiroz es guaperrimo"
+    s1 = "abcd efg hijk"
     print(s1.split(" ", 2))
     print(s1.rsplit(" ", 2))
     print(s1[3:11] + " " + s1[12:18].title() + " " + s1[22::][::-1])
@@ -834,7 +834,7 @@ def tuples():
     
 def dictionary():
     dict_car = {
-                'name' : "Carlitos", 
+                'name' : "adfs",
                 'age' : 5, 
                 'hobby' : "build legos", 
                 'likes' : "Cars", 
@@ -1033,7 +1033,7 @@ if __name__ == "__main__":
     data = ['a', 'b', 'a', 'a', 'c', 'd', 'b', 'g', 'f', 'c']
     grouping_data(data)
     
-    s = "Hola Carlitos"
+    s = "Hola abc"
     print(s)
     print(remove_vowels(s))
     print()

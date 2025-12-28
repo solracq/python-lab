@@ -217,7 +217,7 @@ if __name__ == "__main__":
     compare(2,3)
     compare(3,3)
 
-    year = 1977
+    year = 2134
     print(is_leap(year))
     print("\n")
 

@@ -56,7 +56,7 @@ class Users():
     def reset_login_attempts(self):
         self.login_attempts = 0
 
-user1 = Users('Carlitos', 'Quiroz', 7, 'playing lego Mario')
+user1 = Users('john', 'smtz', 7, 'playing lego Mario')
 user1.get_full_name()
 user1.create_records()
 user1.print_records()

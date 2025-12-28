@@ -8,9 +8,9 @@ print('Accessing keys')
 print(keys_[2])
 print()
 print(dict_)
-dict_.update({'C': 'Carlitos'})
+dict_.update({'C': 'abc'})
 print(dict_)
-dict_.update({'D': 'Naomi'})
+dict_.update({'D': 'def'})
 print(dict_)
 print('Accessing keys again')
 listak = list(dict_.keys()) 
@@ -31,26 +31,26 @@ print(list_v,'\n')
 
 lista = [
          {
-          'Carlos': {
+          'Abc': {
                      '50_movie': 'Rebel w/o Cause',
                      '60_movie': 'The Graduate',
                      '70_movie': 'The Godfather',
                     },
-          'Camelit': {
+          'cd': {
                       '50_music': 'Run away Sue',
                       '60_music': 'Apache',
                       '70_music': 'Dont let me be misunderstood',
                       },
-           'Nando':  {
+           'asdf':  {
                       'chocolate1': '3 Musketers',
                       'gum': 'beisbol bubble gum',
                       'song': 'seven up',
                       },
           },
          {
-          'Carlos': {
-                     '80_movie': 'AMADEUS',
-                     '90_movie': 'Ronin',
+          'dsa': {
+                     '80_movie': 'asdf',
+                     '90_movie': 'fasdd',
                      '00_movie': 'The Pursue of Happiness',
                      '60_music': 'Time cannot wait'
                     },
@@ -73,10 +73,10 @@ for dict_ in lista:
         print("{} : {}".format(keys[0], dict_[keys[0]]['00_movie']))
 print()
 
-print("Printing only Carlos' 90 movie")        
+print("Printing only avc' 90 movie")
 for dict_ in lista:
     for key, value in dict_.items():
-        if key == 'Carlos':
+        if key == 'abc':
             for k, v in value.items():
                 if k == '90_movie':
                     print("{}: {} : {}".format(key, k, v)) 
@@ -112,33 +112,33 @@ print()
 
 users= [
         {'uname': {
-            'name': "carlos",
-            'second_name': "Quiroz",
-            'last_name': "cq",
+            'name': "test",
+            'second_name': "Ba",
+            'last_name': "cl",
             'title': "eng",
             'books': "any",
             'movie': "as good as it gets",
             }},
         {'uname': {
-            'name': "yu",
-            'second_name': "Zhang",
-            'last_name': "zhang",
+            'name': "aaa",
+            'second_name': "asdf",
+            'last_name': "ad",
             'title': "acct",
             'books': "any",
             'movie': "as good as it gets",
             }},
         {'uname': {
-            'name': 'carlitos',
-            'second_name': 'eddy',
-            'last_name': 'quiroz',
-            'title': "engineer",
-            'books': "dinosaurs",
+            'name': 'ab',
+            'second_name': 'fsadf',
+            'last_name': 'abc',
+            'title': "eadfeer",
+            'books': "dinods",
             'movie': "aladdin",         
             }},
         {'uname': {
-            'name': 'naomi',
-            'second_name': 'sophia',
-            'last_name': 'quiroz',
+            'name': 'ase',
+            'second_name': 'sads',
+            'last_name': 'asdfaf',
             'title': "engineer and more",
             'books': "princess",
             'movie': "minnie mouse", 
@@ -152,7 +152,7 @@ lista = [list(dict_.keys()) for dict_ in users]
 print(lista)
 print()
 print([dict_['a'] for dict_ in users2])
-print([dict_['uname']['name'] for dict_ in users if dict_['uname']['last_name'] == 'quiroz'])
+print([dict_['uname']['name'] for dict_ in users if dict_['uname']['last_name'] == 'abc'])
 print()
 
 # Dicionary comprehension

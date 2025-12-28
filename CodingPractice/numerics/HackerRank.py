@@ -267,7 +267,7 @@ def remove_vowels(s):
         while vowel in list_s:
             list_s.remove(vowel)  
     return "".join(list_s)
-s = "Carlios Quiroz"
+s = "abc aefs"
 print(s)
 print(remove_vowels(s), '\n')
 

@@ -9,7 +9,6 @@ from car import Car, ElectricCar, CarBattery
 #         self.privileges = Privileges()
 
 # print()
-# admin = Admin("Naomi", "Quiroz", 5, "Drawing")
 # admin.create_records()
 # admin.print_records()
 # admin.privileges.show_privileges()

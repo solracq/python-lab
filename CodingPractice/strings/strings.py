@@ -10,10 +10,10 @@ def hello(name_n: str):
     name = input('What is your name? ')
     print(f'Hello {name.lower()}')
 
-    name_c = "cArLos"
+    name_c = "cabcs"
     print('name_c is of type ', type(name_c))
     if isinstance(name_c, str):
-        print(f"Hello papa {name_c.title()}")
+        print(f"Hello abc {name_c.title()}")
     else:
         print("Not an string!")
 
@@ -32,7 +32,7 @@ def manually_order(lista):
 
 def strip_replace_union(message: str):
     # Remove leading and trailing whitespces with STRIP
-    phrase = " Hola Yu "
+    phrase = " Hola ab "
     print(f"\nMrs{phrase}"+"Tz")
     ######## STRIP #######
     stripped = phrase.strip() # stripping only the spaces before and after the word
@@ -330,16 +330,15 @@ def fizzbuzz():
 # Driver function
 if __name__ == "__main__":
     start_time = time.time()
-    # hello("Naomi")
     lista = [1, 2, 3, 4, 5, 6]
     manually_order(lista)
     message = "Adding Whitespace to Strings with Tabs or Newlines."
     strip_replace_union(message)
     msg = "A person who never made a mistake never tried anything new."
     manipulate_str(msg)
-    name = "Carlitos Quiroz"
+    name = "Abc Efg"
     reverse_name(name)
-    text = "Naomi es muy bonita"
+    text = "test es gf"
     splitting_joining(text)
     in_in_not(msg)
     find_word_index(msg, 'who')
@@ -355,18 +354,18 @@ if __name__ == "__main__":
     print(reverse_string_2(s))
     type_var()
 
-    s = "Hola Carlitos"
+    s = "Hola Abc"
     print(remove_vowels(s))
     print(reverse_string(s))
 
     list_num = ["1", "2", "3", "4", "5"]
-    list_sentence = ["Hola Naomi"]
+    list_sentence = ["Hola Abc"]
     print(reverse_list(list_num))
 
     s="abcdefgh"
     print(reverse_bulk_simplified(s, 3))
 
-    s = "Carlos"
+    s = "test"
     print(rotate_string_left(s, 1))
     print(rotate_string_right(s, 1))
 
@@ -408,7 +407,7 @@ if __name__ == "__main__":
     s2 = "iceman"
     print(isanagram(s1, s2))
 
-    s = "Naomi and Carlitos are very super duper cute"
+    s = "afds and dsfadsfare very super duper cute"
     list_num = [random.randint(10, 90) for i in range(10)]
     list_words = ['kiwi', 'banana', 'strawberry', 'orange', 'blueberry', 'mango', 'pear', 'apple', 'rasperry', 'melon',
                   'papaya', 'watermelon']
@@ -446,7 +445,7 @@ if __name__ == "__main__":
     s= s + "12345" + "ababa"
     print(s)
     print(s.replace('a', 'A', 3)) #3 is the number of replacement ocurrences
-    s2 = "Cute Naomi chula"
+    s2 = "Cute she chula"
     print(s2.split(" ", 1))
     print(s2.rsplit(" ", 1))
     print(s2.partition(" "))

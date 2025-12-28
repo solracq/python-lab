@@ -578,7 +578,7 @@ def remove_vowels(s):
             continue
         res.append(s[i])
     return "".join(res)
-s = "carlitos"
+s = "abc"
 print(s)
 print(remove_vowels(s))
 

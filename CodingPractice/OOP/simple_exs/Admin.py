@@ -10,7 +10,7 @@ class Admin(Users):
         self.privileges = Privileges()
             
 print()
-admin = Admin('CarlitoS', 'Q.', 5, 'read superheroes books')
+admin = Admin('abc', 'Q.', 5, 'read superheroes books')
 admin.create_user_records()
 admin.print_user_records()
 admin.privileges.show_privileges()

@@ -14,5 +14,5 @@ def remove_vowels(s):
             
     return res
     
-s = "Hola Carlitos"
+s = "Hola smth"
 print(remove_vowels(s))

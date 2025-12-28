@@ -663,7 +663,7 @@ def remove_vowels(s: str) -> str:
     return "".join(s_list)
 
 
-s = "carlitos"
+s = "abc"
 print(s)
 print(remove_vowels(s))
 

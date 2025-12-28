@@ -49,13 +49,13 @@ def lists():
     print(mythical)
     
     # Equivalent of toCharArray
-    name = "Carmelita Quiroz Perez"
+    name = "abc smith"
     name_list = list(name)
     print(name_list)
     
     # finding element in string
     for element in name_list:
-        if element == 'Q':
+        if element == 'S':
             print("found "+str(element)+" in position "+str(name_list.index(element)))
     
     # finding duplicates    

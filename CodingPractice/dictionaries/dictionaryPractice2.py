@@ -69,17 +69,17 @@ alien['speed']='fast'
 calculate()
 
 fav_lan={
-         "Lupita": 'python',
-         "Carlos": 'python',
-         "Naomi":  'scratch',
-         "Carlitos": 'scratch',
-         "Yu": 'python',
-         "Carlos": 'java',
+         "sdaf": 'python',
+         "asdf": 'python',
+         "asdf":  'scratch',
+         "asdf": 'scratch',
+         "adf": 'python',
+         "sfda": 'java',
          }
 for key, value in fav_lan.items():
     print(key + " : "+ value)
 print()
-print("Yu favorite language is {}".format(fav_lan["Yu"].title()))
+print("Abc favorite language is {}".format(fav_lan["abc"].title()))
 
 leoP = {
         'name': 'leo',
@@ -248,34 +248,34 @@ for username, userinfo in users.items():
 print()    
 
 users= {
-        'cquiroz': {
-            'name': "carlos",
-            'second_name': "alberto",
-            'last_name': "quiroz",
+        'abc': {
+            'name': "cdef",
+            'second_name': "abco",
+            'last_name': "qadfz",
             'title': "test auto dev",
             'books': "a voice in the night",
-            'movie': "ronin",
+            'movie': "sdfanin",
             },
-        'yzhang': {
-            'name': "yu",
+        'adb': {
+            'name': "abc",
             'second_name': "",
-            'last_name': "zhang",
+            'last_name': "fsd",
             'title': "acct",
             'books': "any",
             'movie': "as good as it gets",
             },
-        'carlitosq': {
-            'name': 'carlitos',
-            'second_name': 'eddy',
-            'last_name': 'quiroz',
+        'gda': {
+            'name': 'hgdd',
+            'second_name': 'sdaf',
+            'last_name': 'sadf',
             'title': "engineer",
             'books': "dinosaurs",
             'movie': "aladdin",         
             },
-        'nquroz': {
-            'name': 'naomi',
-            'second_name': 'sophia',
-            'last_name': 'quiroz',
+        'vgda': {
+            'name': 'abcd',
+            'second_name': 'dsf',
+            'last_name': 'adsg',
             'title': "engineer and more",
             'books': "princess",
             'movie': "minnie mouse", 
@@ -293,6 +293,6 @@ print()
 
 for username, userinfo in users.items():
     # finding specific data
-    if userinfo['last_name'] == 'quiroz':
+    if userinfo['last_name'] == 'abc':
         print("{} lastname found with name {}".format(userinfo['last_name'], userinfo['name']))
 print()

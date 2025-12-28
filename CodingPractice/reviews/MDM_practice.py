@@ -277,7 +277,7 @@ def dictionary_manipulation():
     set_ = {'orange', 'banana', 'strawberry', 'blueberry', 'cherry', 'mango', 'melon', 'apple', 'kiwi'}
     
     dict_car = {
-                'name' : "Carlitos", 
+                'name' : "Aevd",
                 'age' : 5, 
                 'hobby' : "build legos", 
                 'likes' : "Cars", 
@@ -657,7 +657,7 @@ if __name__ == "__main__":
     print(f"SORT OCCURENCES: {sort_occurrences(list_)}")
     print()
     
-    s = "carlitos"
+    s = "abc"
     print(s)
     print(remove_vowels(s))
     print()

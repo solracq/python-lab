@@ -20,6 +20,6 @@ class TeamLead(Employee, Project):
 
 
 if __name__ == "__main__":
-    lead = TeamLead("Sophia", "AI Development")
+    lead = TeamLead("ABC", "AI Development")
     lead.role()
     lead.details()

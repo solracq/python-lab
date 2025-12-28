@@ -4,9 +4,9 @@
 import time
 
 start_time=time.time()
-t=(2014, 12, 9, 2, 30, 0, 2, 338, 0)
+t=(2003, 12, 9, 2, 30, 0, 2, 338, 0)
 print("Current time", time.asctime())
-print("Carlitos Bday", time.asctime(t))
+print("asdf Bday", time.asctime(t))
 print("current day of the week", time.strftime('%A'))
 print("current day of the week", time.strftime('%a'))
 print("current month of the week", time.strftime('%B'))

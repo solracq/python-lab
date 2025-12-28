@@ -196,7 +196,7 @@ def fizzbuz(num):
             print(i)
 
 if __name__ == "__main__":
-    text = "Naomi es muy bonita"
+    text = "abc es muy bonita"
     # Split and Join
     split_text = splitting_strings(text)
     print(split_text)
@@ -208,7 +208,7 @@ if __name__ == "__main__":
     join_text = joining_strings(split_text)
     print(join_text)
     # Capitalize and Title strings
-    text = "carlitos el guapo"
+    text = "sdaf el guapo"
     print(capitalize_strings(text))
     print(title_strings(text))
     # Upper and lower strings
@@ -231,8 +231,8 @@ if __name__ == "__main__":
     print(text.rstrip("-"))
     print(text.lstrip("-"))
     # Find strings
-    text = "Yu es mia y solo mia"
-    print("Is 'yu' in", text, "=", finding_string(text, "yu"))
+    text = "abc es mia y solo mia"
+    print("Is 'abc' in", text, "=", finding_string(text, "abc"))
     print(f"The first 'mia' in '{text}' is at {text.find('mia')}")
     print(f"The second 'mia' in '{text}' is at {text.rfind('mia')}")
     # Index
@@ -250,7 +250,7 @@ if __name__ == "__main__":
     except AttributeError:
         print("The 'found()' method cannot be used w/ lists")
     # checks
-    text = "yuya"
+    text = "test"
     print(text)
     print("is text alpha", text.isalpha())
     print("is text alnum", text.isalnum())
@@ -281,7 +281,7 @@ if __name__ == "__main__":
     print("{5}, {4}, {3}, {2}, {1}, {0}".format(*array))
     print(*array)
     # Find and replace chars in text
-    text = "Conan the barbarian "
+    text = "Cad the barbarian "
     print(replace_chars(text, "n", "%"))
     print(replace_chars(text, "z", "%"))
     print(text.replace(" ", "%"))

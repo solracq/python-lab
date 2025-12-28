@@ -58,21 +58,21 @@ def find_user_info(dictionary, username, userinfo=None):
         
         
 dict = {}
-account1 = create_account(dict, 'cquiroz', 'carlos', 'quiroz', 40, 'car@loquesea.com', 'canada', 'movies', 'java', 'qa', True)
-account2 = create_account(dict, 'yzhang', 'yu', 'zhang', 34, 'yu@loquesea.com', 'canada', 'music', 'python', 'account', True)
-account3 = create_account(dict, 'caloEddy', 'carlitos', 'quroz', 4, 'cquirEdy@loquesea.com', 'canada', 'dragons', 'scratch', 'engineer', False)
-account4 = create_account(dict, 'nquiroz', 'naomi', 'quroz', 2, 'nquiroz@loquesea.com', 'canada', 'princess', 'scratch', 'engineer', False)
+account1 = create_account(dict, 'afbfd', 'sdfa', 'abc', 40, 'aeb@loquesea.com', 'addf', 'movies', 'java', 'qa', True)
+account2 = create_account(dict, 'daf', 'abc', 'ade', 34, 'hfe@loquesea.com', 'adf', 'music', 'python', 'account', True)
+account3 = create_account(dict, 'adf', 'weq', 'fge', 4, 'abc@loquesea.com', 'dsf', 'abc', 'scratch', 'enaeer', False)
+account4 = create_account(dict, 'nfgd', 'asdf', 'awc', 2, 'defg@loquesea.com', 'ads', 'princess', 'abcch', 'engineer', False)
 print_dictionary(dict)
 
 print("Looking for an user: ")
-find_user_info(dict, "yzhang", None)
+find_user_info(dict, "abc", None)
 print()
 
 print("Looking for a prticular user info: ")
-find_user_info(dict, "nquiroz", "interest")
+find_user_info(dict, "ad", "interest")
 
 print()
-find_user_info(dict, "caloEddy")
+find_user_info(dict, "asdf")
 
 # copying a list as argument
 list_ = ['a', 'b', 'c', 'd', 'e']

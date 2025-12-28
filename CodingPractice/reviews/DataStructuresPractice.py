@@ -254,7 +254,7 @@ def dictionary_():
     # initializing dictionary
     print("INITIALIZING DICTIONARY")
     dict_car = {
-                'name' : "Carlitos", 
+                'name' : "aeb",
                 'age' : 5, 
                 'hobby' : "build legos", 
                 'likes' : "Cars", 
@@ -349,7 +349,7 @@ def dictionary_():
     
     # update dictionary
     print("EDIT DICTIONARY")
-    dict_car["name"] = "Carlitos Quiroz"
+    dict_car["name"] = "abc efg"
     print(dict_car)
     print()
     
@@ -579,7 +579,7 @@ def string_manipulation():
     print("another way to find the second 'o'", s.rindex('o'))
     list_ = list(s) 
     print(list_)
-    s2 = "Cute Naomi chula"
+    s2 = "Cute abc chula"
     print("/".join(s2))
     print(s2.split("/"))
     print(s2.swapcase())
@@ -589,7 +589,7 @@ def string_manipulation():
     print("split all", s2.split(" "))
     
     print()
-    s1 = "El cArLiToS quiroz es guaperrimo"
+    s1 = "El jn abc es guaperrimo"
     print(s1)
     list_chars = list(s1)
     print(list_chars)
@@ -641,7 +641,7 @@ def string_manipulation():
     
     print(s1.partition(" "))
     
-    print(s1.replace('carlitos', 'CaloBeto', 3))
+    print(s1.replace('defs', 'abc', 3))
     
     print(s1.splitlines(0 ))
     

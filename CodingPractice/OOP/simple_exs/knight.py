@@ -81,7 +81,7 @@ if __name__ == "__main__":
         f"This is {knight.title} {knight.name} the {knight.quest}, who likes color {knight.favorite_color} is {knight.comment}!")
     print(repr(knight)) # using the __repr___() call
     print(f"Hash = {knight.__hash__()}")
-    knight.name = "Carlos V"
+    knight.name = "John V"
     knight.title = "Rey"
     knight.favorite_color = "blue"
     knight.quest = "Ruler of the chocolate kingdom"

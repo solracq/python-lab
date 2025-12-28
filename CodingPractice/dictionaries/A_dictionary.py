@@ -75,7 +75,7 @@ def are_dicts_equals(dict1:dict, dict2:dict):
 
 if __name__ == "__main__":
     # filling_up_dict()
-    phonebook = {"Nom": 1234567, "Carlitos": 7654321, "Yu": 9876543, "Car": 33323567}
+    phonebook = {"sadf": 1234567, "abc": 7654321, "adsf": 9876543, "dsfaar": 33323567}
     print(phonebook)
     print(list(phonebook.keys()))
     print(list(phonebook.values()))
@@ -89,8 +89,8 @@ if __name__ == "__main__":
     print(phonebook)
     phonebook["Carmelit"] = 529297242
     print(phonebook)
-    phonebook.pop("Carmelit")
-    print(phonebook.get("Carlitos"))
+    phonebook.pop("abc")
+    print(phonebook.get("Cedar"))
     print(len(phonebook))
     for element in phonebook:
         print(f"{element} : {phonebook[element]}")
@@ -128,7 +128,7 @@ if __name__ == "__main__":
         print("way to fast!")
     if 'speed' in alien.keys():
         print("you can change speed!")
-    phonebook = {"Nom": 1234567, "Carlitos": 7654321, "Yu": 9876543, "Car": 33323567, "Lucy": 53764357}
+    phonebook = {"Nom": 1234567, "abc": 7654321, "dsaf": 9876543, "adsf": 33323567, "dsfcy": 53764357}
     print(phonebook)
     for key, value in sorted(phonebook.items()):
         print(f"{key} : {value}")
@@ -136,12 +136,12 @@ if __name__ == "__main__":
     for key, value in sorted(phonebook.items(), reverse=True):
         print(f"{key} : {value}")
     fav_lan = {
-        "Lupita": 'python',
-        "Carlos": 'python',
-        "Naomi": 'scratch',
-        "Carlitos": 'scratch',
-        "Yu": 'python',
-        "Carlos": 'java',
+        "abc": 'python',
+        "efg": 'python',
+        "hij": 'scratch',
+        "klm": 'scratch',
+        "nmo": 'python',
+        "Pqrs": 'java',
     }
     print(fav_lan)
     set_fav_lan = set(fav_lan.items())
@@ -163,18 +163,18 @@ if __name__ == "__main__":
     print_elements('a', 'b', 'c')
     print_elements('a', 'b', 'c', 1, 2, 3)
     fav_lan = {
-        "Lupita": 'python',
-        "Carlos": 'python',
-        "Naomi": 'scratch',
-        "Carlitos": 'scratch',
-        "Yu": 'python',
-        "Carlos": 'java',
+        "adsf": 'python',
+        "qer": 'python',
+        "uyj": 'scratch',
+        "asde": 'scratch',
+        "Ycz": 'python',
+        "Cdffs": 'java',
     }
     print(sorted(fav_lan.items()))
     # sorting based on values of a list
     print(sorted(fav_lan.items(), key=lambda x: x[1]))
     ####################################################################################################
-    s = "Naomi and Carlitos are very super duper cute"
+    s = "abc and abc are very super duper cute"
     list_num = [random.randint(10, 90) for i in range(10)]
     list_words = ['kiwi', 'banana', 'strawberry', 'orange', 'blueberry', 'mango', 'pear', 'apple', 'rasperry', 'melon',
                   'papaya', 'watermelon']
@@ -194,7 +194,7 @@ if __name__ == "__main__":
             'movies': 'Aladdin',
         },
         "nquiroz": {
-            'name': 'Naomi Quiroz',
+            'name': 'Abc test',
             'number': list_num[5],
             'month': tuple_months[3],
             'fruit': list_words[1],
@@ -203,8 +203,8 @@ if __name__ == "__main__":
             'hobbies': 'singing',
             'movies': 'princess movies',
         },
-        "yuyis": {
-            'name': 'Yu',
+        "abc": {
+            'name': 'Av',
             'number': list_num[random.randint(0, 9)],
             'month': tuple_months[9],
             'fruit': list_words[5],
@@ -242,7 +242,7 @@ if __name__ == "__main__":
             'movies': 'Aladdin',
         },
         "nquiroz": {
-            'name': 'Naomi Quiroz',
+            'name': 'Abc Efg',
             'month': tuple_months[3],
             'fruit': list_words[1],
             'color': 'pink',
@@ -250,8 +250,8 @@ if __name__ == "__main__":
             'hobbies': 'singing',
             'movies': 'princess movies',
         },
-        "yuyis": {
-            'name': 'Yu',
+        "abc": {
+            'name': 'ab',
             'month': tuple_months[9],
             'fruit': list_words[5],
             'color': 'purple',

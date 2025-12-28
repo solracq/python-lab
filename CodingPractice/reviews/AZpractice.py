@@ -174,7 +174,7 @@ def combinaciones(list_, n):
     
 # Driver function
 if __name__ == "__main__":
-    s = "Naomi and Carlitos are very super duper cute" 
+    s = "They are very super duper cute"
     
     list_num = [randint(10, 90) for i in range(10)]
     list_words = ['kiwi', 'banana', 'strawberry', 'orange', 'blueberry', 'mango', 'pear', 'apple', 'rasperry', 'melon', 'papaya', 'watermelon']
@@ -184,18 +184,18 @@ if __name__ == "__main__":
     set_colors = {'blue', 'red', 'green', 'purple', 'orange', 'black', 'white', 'grey', 'yellow', 'magenta', 'pink', 'brown'}
 
     dictionary = {
-                  'solrac': {
-                             'name': 'CaloBeto',
+                  'abc': {
+                             'name': 'sdfa',
                              'number': list_num[3],
                              'month': tuple_months[7],
                              'fruit': list_words[0],
                              'color': 'green',
                              'likes': 'watch movies',
-                             'hobbies': 'FIFA19',
-                             'movies': 'Ronin',
+                             'hobbies': 'Fdsaf',
+                             'movies': 'sdf',
                            },
-                  'carlitos': {
-                               'name': 'CarloEddy',
+                  'abc': {
+                               'name': 'asdf',
                                'number': list_num[5],
                                'month': tuple_months[11],
                                'fruit': list_words[4],
@@ -204,8 +204,8 @@ if __name__ == "__main__":
                                'hobbies': 'soccer',
                                'movies': 'Aladdn',
                                },
-                  'nquiroz': {
-                              'name': 'Naomi',
+                  'nsf': {
+                              'name': 'abc',
                               'number': list_num[2],
                               'month': tuple_months[2],
                               'fruit': list_words[4],
@@ -214,15 +214,15 @@ if __name__ == "__main__":
                               'hobbies': 'play in water',
                               'movies': 'Princess',
                               },
-                  'yuyis': {
-                            'name': 'Yu',
+                  'abc': {
+                            'name': 'abc',
                             'number': list_num[8],
                             'month': tuple_months[9],
                             'fruit': list_words[7],
                             'color': 'purple',
                             'likes': 'shopping',
                             'hobbies': 'cooking',
-                            'movies': 'As good as it gets',
+                            'movies': 'Adsaf',
                             },
                   }
     
