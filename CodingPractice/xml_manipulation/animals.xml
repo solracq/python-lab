@@ -1,0 +1,12 @@
+<zoo>
+    <animal>
+        <species>Dog</species>
+        <name>Rintintin</name>
+        <sound>Woof</sound>
+    </animal>
+    <animal>
+        <species>Bird</species>
+        <name>Pajaro Loco</name>
+        <sound>Yetzuuu</sound>
+    </animal>
+</zoo>

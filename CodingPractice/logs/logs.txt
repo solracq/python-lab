@@ -1,0 +1,130 @@
+e: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 22.0secs
+ 6/22/2019 23:52:21.182 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 27.0secs
+ 6/22/2019 23:52:21.182 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:52:26.182 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 32.0secs
+ 6/22/2019 23:52:26.183 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:52:31.183 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 37.0secs
+ 6/22/2019 23:52:31.183 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:52:36.184 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 42.0secs
+ 6/22/2019 23:52:36.184 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:52:41.185 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 47.0secs
+ 6/22/2019 23:52:41.185 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:52:46.194 __WiFiLQAMgrLogStats(stationary): Rssi: -53 {-53 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (163, 50.2%) RxFrms: 8 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 52.0secs
+ 6/22/2019 23:52:51.202 __WiFiLQAMgrLogStats(stationary): Rssi: -54 {-53 0} Cca: 11 TxPer: 0.0% (1) BcnPer: 0.0% (0, 50.2%) RxFrms: 1 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 2 TxFwFail: 0 TxReTrans: 0 time: 57.0secs
+ 6/22/2019 23:52:56.203 __WiFiLQAMgrLogStats(stationary): Rssi: -54 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 62.0secs
+ 6/22/2019 23:52:56.203 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:53:01.204 __WiFiLQAMgrLogStats(stationary): Rssi: -54 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 67.0secs
+ 6/22/2019 23:53:01.204 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/22/2019 23:53:06.213 __WiFiLQAMgrLogStats(stationary): Rssi: -54 {-53 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (142, 50.2%) RxFrms: 4 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 72.0secs
+ 6/22/2019 23:53:11.214 __WiFiLQAMgrLogStats(stationary): Rssi: -54 {0 0} Cca: 11 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.2%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 
+
+ 6/23/2019  0:31:58.716 __WiFiLQAMgrLogStats(moving): Rssi: -61 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 6.2secs
+ 6/23/2019  0:31:58.716 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:03.724 __WiFiLQAMgrLogStats(stationary): Rssi: -59 {-58 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 8 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 4.2secs
+ 6/23/2019  0:32:03.745 
+Too frequent(0.021160 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:32:08.732 
+Too frequent(0.481262 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:32:08.732 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-59 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (75, 50.1%) RxFrms: 2 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 9.2secs
+ 6/23/2019  0:32:13.733 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 14.2secs
+ 6/23/2019  0:32:13.734 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:14.395 
+Too frequent(0.661559 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:32:18.734 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 19.2secs
+ 6/23/2019  0:32:18.734 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:23.743 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-59 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (84, 50.1%) RxFrms: 4 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 24.2secs
+ 6/23/2019  0:32:28.744 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 29.2secs
+ 6/23/2019  0:32:28.744 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:33.748 
+Too frequent(0.613901 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:32:33.748 __WiFiLQAMgrLogStats(stationary): Rssi: -59 {-59 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (71, 50.1%) RxFrms: 6 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 34.2secs
+ 6/23/2019  0:32:38.749 __WiFiLQAMgrLogStats(stationary): Rssi: -58 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 39.2secs
+ 6/23/2019  0:32:38.749 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:43.757 __WiFiLQAMgrLogStats(stationary): Rssi: -59 {-58 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (76, 50.1%) RxFrms: 2 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 44.2secs
+ 6/23/2019  0:32:48.758 __WiFiLQAMgrLogStats(stationary): Rssi: -59 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 49.2secs
+ 6/23/2019  0:32:48.758 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:32:53.766 
+Too frequent(0.971857 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:32:53.766 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-59 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (63, 50.1%) RxFrms: 8 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 54.2secs
+ 6/23/2019  0:32:58.767 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 59.2secs
+ 6/23/2019  0:32:58.767 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:33:03.775 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-60 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (73, 50.1%) RxFrms: 2 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 64.2secs
+ 6/23/2019  0:33:04.672 
+Too frequent(0.897551 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:08.776 __WiFiLQAMgrLogStats(stationary): Rssi: -61 {0 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 69.2secs
+ 6/23/2019  0:33:08.776 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:33:08.871 
+Too frequent(0.094913 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:13.784 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-59 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (68, 50.1%) RxFrms: 2 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 74.2secs
+ 6/23/2019  0:33:13.786 
+Too frequent(0.002120 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:18.792 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-59 -53} Cca: 10 TxPer: 0.0% (1) BcnPer: 0.0% (84, 50.1%) RxFrms: 1 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 2 TxFwFail: 0 TxReTrans: 0 time: 79.2secs
+ 6/23/2019  0:33:18.803 
+Too frequent(0.011059 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:23.801 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-60 0} Cca: 10 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 6 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 84.2secs
+ 6/23/2019  0:33:27.918 age diff 141.604729, accuracy diff 15.000000
+ 6/23/2019  0:33:27.919 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=50.000000  timeIntervalSinceNow=0.531654secs source=GPS
+ 6/23/2019  0:33:27.919 Async scan requested by "locationd" for 1 iterations with maxage=0 priority low on en0
+ 6/23/2019  0:33:27.919 Enqueuing command type: "Scan" pending commands: 0
+ 6/23/2019  0:33:27.919 Dequeuing command type: "Scan" pending commands: 0
+ 6/23/2019  0:33:27.919 Attempting Apple80211ScanAsync on en0
+ 6/23/2019  0:33:27.919 __WiFiDeviceCopyPreparedScanResults: maxAge 0 seconds, numCacheEntries: 0, cacheEntryUsable 0, cacheUsable 0, scanResultsFound 0, scanResults count: 0, scanChannelSet count: 0 
+ 6/23/2019  0:33:27.919 __WiFiDeviceCopyPreparedScanResults: network records count: 0 
+ 6/23/2019  0:33:28.026 age diff 0.609067, accuracy diff 0.000000
+ 6/23/2019  0:33:28.026 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=50.000000  timeIntervalSinceNow=0.030330secs source=GPS
+ 6/23/2019  0:33:28.397 Completed Apple80211ScanAsync on en0 (0x0)
+ 6/23/2019  0:33:28.397 __WiFiDeviceProcessScanDoneEvent: Filtering WAPI networks
+ 6/23/2019  0:33:28.397 __WiFiDeviceCreateFilteredScanResults: rssiThresh 0, doTrimming 1, scanResults count: 3, trimmedScanResults count: 3, filteredScanResults count: 3 
+ 6/23/2019  0:33:28.398 __WiFiDeviceUpdateCache: maxAge: 14 seconds, cache entries before update: 0, cache entries after update: 0 
+ 6/23/2019  0:33:28.398 Async scan request completed for "locationd" (0), found 3 networks
+ 6/23/2019  0:33:28.802 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {0 0} Cca: 3 TxPer: 0.0% (0) BcnPer: 0.0% (0, 50.1%) RxFrms: 0 RxRetryFrames: 0 TxRate: 0 RxRate: 0 FBRate: 0 TxFwFrms: 0 TxFwFail: 0 TxReTrans: 0 time: 89.2secs
+ 6/23/2019  0:33:28.802 __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ 6/23/2019  0:33:29.044 age diff 1.000631, accuracy diff 20.000000
+ 6/23/2019  0:33:29.044 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=30.000000  timeIntervalSinceNow=0.047463secs source=GPS
+ 6/23/2019  0:33:29.557 
+Too frequent(0.754574 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:30.061 age diff 1.000534, accuracy diff 0.000000
+ 6/23/2019  0:33:30.062 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=30.000000  timeIntervalSinceNow=0.064416secs source=GPS
+ 6/23/2019  0:33:31.067 age diff 1.000154, accuracy diff 0.000000
+ 6/23/2019  0:33:31.067 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=30.000000  timeIntervalSinceNow=0.070249secs source=GPS
+ 6/23/2019  0:33:31.068 Async scan requested by "locationd" for 1 iterations with maxage=0 priority low on en0
+ 6/23/2019  0:33:31.068 Enqueuing command type: "Scan" pending commands: 0
+ 6/23/2019  0:33:31.068 Dequeuing command type: "Scan" pending commands: 0
+ 6/23/2019  0:33:31.068 Attempting Apple80211ScanAsync on en0
+ 6/23/2019  0:33:31.068 __WiFiDeviceCopyPreparedScanResults: maxAge 0 seconds, numCacheEntries: 0, cacheEntryUsable 0, cacheUsable 0, scanResultsFound 0, scanResults count: 0, scanChannelSet count: 0 
+ 6/23/2019  0:33:31.068 __WiFiDeviceCopyPreparedScanResults: network records count: 0 
+ 6/23/2019  0:33:31.830 WiFiLocaleManagerCheckLocale: trying to determine locale...
+ 6/23/2019  0:33:31.831 __WiFiLocaleManagerGetLocaleFromMcc: finding iso country code for mcc 302 ....
+ 6/23/2019  0:33:31.831 WiFiLocaleManagerCheckLocale: latitude=+43.456179, longitude=-80.577690 Accuracy=30.000000  timeIntervalSinceNow=0.833496secs source=GPS
+ 6/23/2019  0:33:31.831 freshness 3600.000000secs location_age 0.833617secs, lifeSpan 8.000000, accuracy 30.000000m req_accuracy 1000.000000m ==> isLocationValid 1
+ 6/23/2019  0:33:31.831 WiFiLocaleManagerCheckLocale: isValid 1
+ 6/23/2019  0:33:31.832 __WiFiLocaleManagerGetLocaleFromLocation: <+43.45617946,-80.57768983> +/- 30.00m (speed 0.00 mps / course -1.00) @ 6/23/19, 12:33:30 AM Eastern Daylight Time
+ 6/23/2019  0:33:31.832 locale from bounding box 
+ 6/23/2019  0:33:31.832 Failed to get timezone information (no restricted country code); setting locale to default locale
+ 6/23/2019  0:33:31.832 new locale:  , locale: 
+ 6/23/2019  0:33:31.832 WiFiLocaleManagerCheckLocale: LEECHED_LOC_STAT_LOW_ACCURACY_LOCALE: GOOD 31, BAD 7
+ 6/23/2019  0:33:32.062 age diff 1.000114, accuracy diff 0.000000
+ 6/23/2019  0:33:32.062 didUpdateLocations: latitude=+43.456179, longitude=-80.577690 Accuracy=30.000000  timeIntervalSinceNow=0.064669secs source=GPS
+ 6/23/2019  0:33:32.780 Completed Apple80211ScanAsync on en0 (0x0)
+ 6/23/2019  0:33:32.780 __WiFiDeviceProcessScanDoneEvent: Filtering WAPI networks
+ 6/23/2019  0:33:32.781 __WiFiDeviceCreateFilteredScanResults: rssiThresh 0, doTrimming 1, scanResults count: 1, trimmedScanResults count: 1, filteredScanResults count: 1 
+ 6/23/2019  0:33:32.782 __WiFiDeviceUpdateCache: maxAge: 14 seconds, cache entries before update: 0, cache entries after update: 0 
+ 6/23/2019  0:33:32.782 Async scan request completed for "locationd" (0), found 1 networks
+ 6/23/2019  0:33:33.054 age diff 1.000105, accuracy diff 0.000000
+ 6/23/2019  0:33:33.055 didUpdateLocations: latitude=+43.456225, longitude=-80.577715 Accuracy=30.000000  timeIntervalSinceNow=0.057144secs source=GPS
+ 6/23/2019  0:33:33.812 
+Too frequent(0.261158 secs) rssi event from driver, ignoring
+
+ 6/23/2019  0:33:33.812 __WiFiLQAMgrLogStats(stationary): Rssi: -60 {-60 0} Cca: 1 TxPer: 0.0% (0) BcnPer: 0.0% (79, 50.1%) RxFrms: 26 RxRetryFrames: 0 TxRate: 866667 RxRate: 650000 FBRate: 468000 TxFwFrms: 26 TxFwFail: 0 TxReTrans: 0 time: 94.2secs
+ 6/23/2019  0:33:38.821 
+Too frequent(0.866662 secs) rssi event from driver, ignoring

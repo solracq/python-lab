@@ -1,0 +1,210 @@
+17x
+2020-01-12 07:50:55.287864625: LOG START COMPACT: PID: 93: 38489676887833 ns: EST(-0500): 1578833455: iPhone8,2: System Version: 13.3.1 (17D5026c)
+2020-01-12 07:50:55.287864625: System: PowerSource: Charger
+2020-01-12 07:50:55.287864625: SEP: DataAccess: Secured (No internal data) (ProvisionedLocked)
+2020-01-12 07:50:55.287864625: Catacomb: Config: 501: [BKUserCfgTouchIDApplePayEnabled:1],[BKUserCfgTouchIDLoginEnabled:1],[BKUserCfgTouchIDIdentificationEnabled:1],[BKUserCfgEffectiveTouchIDUnlockEnabled:1],[BKUserCfgEffectiveTouchIDApplePayEnabled:1],[BKUserCfgEffectiveTouchIDIdentificationEnabled:1],[BKUserCfgTouchIDUnlockEnabled:1],[BKUserCfgEffectiveTouchIDLoginEnabled:1]
+2020-01-12 07:50:55.287864625: Catacomb: Config: All: [BKSysCfgTouchIDIdentificationEnabled:1],[BKSysCfgTouchIDUnlockEnabled:1],[BKSysCfgTouchIDUnlockTokenMaxLifetime:172800],[BKSysCfgTouchIDEnabled:1],[BKSysCfgTouchIDLoginEnabled:1]
+2020-01-12 07:50:55.287864625: BioLog: CLB: 2020_01_12_07_50_55_320_CalibrationBLOB.bin NO DATA!
+2020-01-12 07:50:55.287864625: BioLog: TPL+: 1578833455_320-2020_01_12_07_50_55_320-501-b0786641.tpl NO DATA!
+2020-01-12 07:50:55.287864625: BioLog::IDT#: 1
+2020-01-12 07:50:55.287864625: BioLog::IDT*: 00000000-SEED-SEED-SEED-000000000000 'Finger 1'
+2020-01-12 07:50:55.287864625: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:50:55.288144042: BioKit: CANCEL - com.apple.springboard[2173011622]
+2020-01-12 07:50:55.288388542: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:50:55.290800542: BioKit: CANCEL - com.apple.springboard[2173011622]
+2020-01-12 07:50:55.290808750: BioKit: CANCEL - com.apple.springboard[370586069]
+2020-01-12 07:50:55.290846792: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:50:55.324614709: Status: TaskResumed -> com.apple.springboard[370586069]
+2020-01-12 07:50:55.324817167: Status: FingerDetectCancelled -> com.apple.springboard[370586069]
+2020-01-12 07:50:55.324817167: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:50:55.291153709: BioKit: CANCEL - com.apple.springboard[370586069]
+2020-01-12 07:50:55.291359667: BioKit: enableBackgroundFdet:withClient:: [enable:0] - com.apple.springboard[3393287223]
+2020-01-12 07:50:55.290564792: Status: MatchingCancelled -> com.apple.springboard[2173011622]
+2020-01-12 07:50:55.290564792: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:50:55.290957417: Sensor: 0x00,0x00,0x01,0x00,0x5c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,IdleCmd,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:50:55.291010084: Status: SensorOperationModeIdle -> [nil]
+2020-01-12 07:50:55.307797459: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:50:55.307969042: Status: SensorOperationModeFdet -> [nil]
+2020-01-12 07:50:55.308323542: Sensor: 0x00,0x00,0x01,0x00,0x5c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,IdleCmd,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:50:55.308363875: Status: SensorOperationModeIdle -> [nil]
+2020-01-12 07:50:55.311628542: getSystemProtectedConfigurationWithClient:
+2020-01-12 07:50:55.506370625: System: Display: Off
+2020-01-12 07:50:55.506370625: System::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:51:00.303054709: Daemon: Catacomb: Save: [useCache:0]
+2020-01-12 07:53:53.042950000: BioKit: Ident : IdentitiesWithFilter: [nil] - com.apple.itunesstored[2857918091]
+2020-01-12 07:53:53.650021667: BioKit: Ident ::...
+2020-01-12 07:59:36.132144334: Kernel: HomeBn: Pressed
+2020-01-12 07:59:36.132350917: Status: AutoMatchingStarted -> [nil]
+2020-01-12 07:59:36.132350917: Status::>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-01-12 07:59:36.132433125: Status: AutoMatchingStartByHomeButton -> [nil]
+2020-01-12 07:59:36.133251584: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:36.133408834: Status: SensorOperationModeCapture -> [nil]
+2020-01-12 07:59:36.149895084: BioKit: Match : Start: [nil]: [BKOptionMatchForUnlock:1],[BKOptionMatchForCredentialSet:{length = 16, bytes = 0x3a5a4a39d49ae3307535cb5fefce7e98}] - com.apple.springboard[295627695]
+2020-01-12 07:59:36.149895084: BioKit: Match ::>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-01-12 07:59:36.150710042: BioKit: Delegate: Registered - com.apple.springboard[295627695]
+2020-01-12 07:59:36.150726917: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:36.151556709: BioKit: enableBackgroundFdet:withClient:: [enable:1] - com.apple.springboard[3393287223]
+2020-01-12 07:59:36.152613542: BioKit: Delegate: Registered - com.apple.springboard[1891829649]
+2020-01-12 07:59:36.153338167: BioKit: FDet  : Start: [nil] - com.apple.springboard[1891829649]
+2020-01-12 07:59:36.153338167: BioKit: FDet  ::>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-01-12 07:59:36.283419542: Status: TaskPaused -> com.apple.springboard[1891829649]
+2020-01-12 07:59:36.180797917: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:36.204981584: Sensor: 0x13,0x00,0x01,0x00,0x0e,0x00000000 (SENSOR_CAP,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:36.205091167: Status: FingerOn -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.209472750: System: ScanningState: ShortScanning
+2020-01-12 07:59:36.209779625: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:36.278756667: System: Display: On
+2020-01-12 07:59:36.278756667: System::>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-01-12 07:59:36.285461917: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:36.306310375: Kernel: HomeBn: Released
+2020-01-12 07:59:36.317288875: Status: ImageCaptured -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.317416292: Status: ImageForProcessing -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.360066959: Sensor: 0x16,0x00,0x01,0xff,0x0e,0x1518ff06 (SENSOR_CAP_RCMD_RESTART,0,ProdPatch,EARLY_SUBARRAY:0,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),(RCMD_MEAN:21,RCMD_REGION_CNT:24,EARLY_DIFF:255,FDMD_MEAN:6))
+2020-01-12 07:59:36.360126459: Status: CaptureRestart -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.381973334: Status: ImageWasAccepted
+2020-01-12 07:59:36.381973334: Status::[Fb:IQ_FB_OK],[Asses:IQ_ACC],[ImgDiag.uiNumPxOutliers:1],[Prp:7],[ImgDiag.fBright:0.136916],[HomeButton:2],[ImgDiag.fCont:0.1139269],[Dirt:0],[ImgDiag.eProbCl:NoProb],[MenuPin:127],[ImgDiag.fFStrength:0.008080357],[ImgDiag.fClFeat:111.5774,1.551846,1.225853,109.2269,109.5788] -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.317328167: BioLog: CAP: 1578833976_317-2020_01_12_07_59_36_317-00-000000d9fd3c3f7e.bin16 NO DATA!
+2020-01-12 07:59:36.317328167: BioLog: IMG: 1578833976_317-2020_01_12_07_59_36_317-00-000000d9fd3c3f7e.pgm NO DATA!
+2020-01-12 07:59:36.438762209: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:36.470823875: Status: ImageCaptured -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.517505250: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:36.549841584: Status: ImageCaptured -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.594090125: Sensor: 0x16,0x00,0x01,0xff,0x0e,0x1e12ff06 (SENSOR_CAP_RCMD_RESTART,0,ProdPatch,EARLY_SUBARRAY:0,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),(RCMD_MEAN:30,RCMD_REGION_CNT:18,EARLY_DIFF:255,FDMD_MEAN:6))
+2020-01-12 07:59:36.594306875: Status: CaptureRestart -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.669593375: Sensor: 0x16,0x00,0x01,0xff,0x0e,0x1d0bff06 (SENSOR_CAP_RCMD_RESTART,0,ProdPatch,EARLY_SUBARRAY:0,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),(RCMD_MEAN:29,RCMD_REGION_CNT:11,EARLY_DIFF:255,FDMD_MEAN:6))
+2020-01-12 07:59:36.669675417: Status: CaptureRestart -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.676404834: Sensor: 0x11,0x05,0x01,0x10,0x0c,0x0c861407 (SENSOR_WAIT_FINGER,CS_FOffInCap,ProdPatch,MID0:16,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),(MID4:12,MID3:134,MID2:20,MID1:7))
+2020-01-12 07:59:36.676468959: Status: FingerOff -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.676973084: System: ScanningState: Idle
+2020-01-12 07:59:36.695461125: Status: ImageForProcessing -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.748531542: Status: MatchRetryAfterHomeButtonRelease
+2020-01-12 07:59:36.748531542: Status::[Fb:IQ_FB_OK],[Asses:IQ_ACC],[ImgDiag.uiNumPxOutliers:3],[Prp:7],[ImgDiag.fBright:0.1286785],[HomeButton:1],[ImgDiag.fCont:0.1183649],[Dirt:0],[ImgDiag.eProbCl:NoProb],[MenuPin:0],[ImgDiag.fFStrength:0.009132285],[ImgDiag.fClFeat:109.8923,1.985776,1.726594,108.0713,107.3229] -> com.apple.springboard[295627695]
+2020-01-12 07:59:36.470887250: BioLog: CAP: 1578833976_470-2020_01_12_07_59_36_470-01-000000d9fd747ba8.bin16 NO DATA!
+2020-01-12 07:59:36.470887250: BioLog: IMG: 1578833976_470-2020_01_12_07_59_36_470-01-000000d9fd747ba8.pgm NO DATA!
+2020-01-12 07:59:37.091428584: Match : Result: NO MATCH: [BKMatchDetailLOTLUserIDs:501],[BKUnlockedMatchRetryCount:1],[BKMatchDetailNoMatchMatcher:1],[matchNodeIndex:-1],[BKMatchDetailHomeButtonPressed:1],[BKMatchDetailNoMatchImageQuality:0],[BKUnlockedMatchRetryLimit:5],[BKMatchDetailLockoutState:521],[BKMatchDetailNoMatchReason:0],[matchS2SCount:41]
+2020-01-12 07:59:37.091428584: Match ::IMG*: 1578833976_470-2020_01_12_07_59_36_470-01-000000d9fd747ba8.pgm -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.091428584: Match ::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:37.096503500: Status: ?EnrollmentProgress: 400 -> [nil]
+2020-01-12 07:59:37.094675542: Status: ImageQueueIsEmpty -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.177917084: Sensor: 0x11,0x02,0x01,0x00,0x04,0x00560000 (SENSOR_WAIT_FINGER,CS_IBFD,ProdPatch,MID0:0,(NoSPIErr,FOff,Calib,NoInt,NoReset,NoData),(MID4:0,MID3:86,MID2:0,MID1:0))
+2020-01-12 07:59:37.426868792: Sensor: 0x13,0x00,0x01,0x00,0x0e,0x00000000 (SENSOR_CAP,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:37.427091667: Status: FingerOn -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.429229417: System: ScanningState: ShortScanning
+2020-01-12 07:59:37.430011667: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:37.507312750: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:37.539219042: Status: ImageCaptured -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.539377959: Status: ImageForProcessing -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.554075167: Kernel: HomeBn: Pressed
+2020-01-12 07:59:37.585925125: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:37.617779417: Status: ImageCaptured -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.617901584: Status: ImageWasAccepted
+2020-01-12 07:59:37.617901584: Status::[Fb:IQ_FB_OK],[Asses:IQ_ACC],[ImgDiag.uiNumPxOutliers:2],[Prp:7],[ImgDiag.fBright:0.1365209],[HomeButton:1],[ImgDiag.fCont:0.0246843],[Dirt:0],[ImgDiag.eProbCl:NoProb],[MenuPin:0],[ImgDiag.fFStrength:0.009498478],[ImgDiag.fClFeat:108.959,1.382824,1.382824,108.959,106.4054] -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.539292000: BioLog: CAP: 1578833977_539-2020_01_12_07_59_37_539-00-000000d9fefbbe9a.bin16 NO DATA!
+2020-01-12 07:59:37.539292000: BioLog: IMG: 1578833977_539-2020_01_12_07_59_37_539-00-000000d9fefbbe9a.pgm NO DATA!
+2020-01-12 07:59:37.681751292: Kernel: HomeBn: Released
+2020-01-12 07:59:37.683944792: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:37.715877584: Status: SensorOperationModePause -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.716652917: System: ScanningState: Idle
+2020-01-12 07:59:37.784274792: Sensor: 0x00,0x00,0x01,0x00,0x0c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:59:37.784414209: Status: FingerOff -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.784898917: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:37.784956542: Status: SensorOperationModeCapture -> com.apple.springboard[295627695]
+2020-01-12 07:59:37.892175417: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:38.045496250: BioKit: CANCEL - com.apple.springboard[295627695]
+2020-01-12 07:59:38.046213667: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:38.047400125: BioKit: getBioLockoutState:forUser:withClient:::...: 4x
+2020-01-12 07:59:38.250630709: BioKit: Delegate: Registered - com.apple.springboard[2710165830]
+2020-01-12 07:59:38.286202709: Sensor: 0x11,0x01,0x01,0x00,0x04,0xxxxxxxxx (SENSOR_WAIT_FINGER,CS_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,NoInt,NoReset,NoData),x)
+2020-01-12 07:59:38.346177167: BioKit: CANCEL - com.apple.springboard[295627695]
+2020-01-12 07:59:38.346189750: BioKit: Match : Start: [nil]: [BKOptionMatchForUnlock:1],[BKOptionMatchForCredentialSet:{length = 16, bytes = 0x3a5a4a39d49ae3307535cb5fefce7e98}] - com.apple.springboard[2710165830]
+2020-01-12 07:59:38.346189750: BioKit: Match ::>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2020-01-12 07:59:38.347035042: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:38.345217250: Match : Result: NO MATCH: [BKMatchDetailLOTLUserIDs:501],[BKUnlockedMatchRetryCount:2],[BKMatchDetailNoMatchMatcher:1],[matchNodeIndex:-1],[BKMatchDetailHomeButtonPressed:1],[BKMatchDetailNoMatchImageQuality:0],[BKUnlockedMatchRetryLimit:5],[BKMatchDetailLockoutState:521],[BKMatchDetailNoMatchReason:0],[matchS2SCount:42]
+2020-01-12 07:59:38.345217250: Match ::IMG*: 1578833977_539-2020_01_12_07_59_37_539-00-000000d9fefbbe9a.pgm -> com.apple.springboard[295627695]
+2020-01-12 07:59:38.345217250: Match ::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:38.349053375: Status: ?EnrollmentProgress: 400 -> [nil]
+2020-01-12 07:59:38.345439417: Status: ImageQueueIsEmpty -> com.apple.springboard[295627695]
+2020-01-12 07:59:38.345551334: Status: AutoMatchingStopped -> com.apple.springboard[295627695]
+2020-01-12 07:59:38.345551334: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:38.345564542: Status: MatchingCancelled -> com.apple.springboard[295627695]
+2020-01-12 07:59:38.345564542: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:38.345942459: Sensor: 0x00,0x00,0x01,0x00,0x5c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,IdleCmd,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:59:38.345988500: Status: SensorOperationModeIdle -> com.apple.springboard[2710165830]
+2020-01-12 07:59:38.362663209: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:38.362765417: Status: SensorOperationModeFdet -> com.apple.springboard[2710165830]
+2020-01-12 07:59:38.363096584: Sensor: 0x00,0x00,0x01,0x00,0x5c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,IdleCmd,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:59:38.363132834: Status: SensorOperationModeIdle -> com.apple.springboard[2710165830]
+2020-01-12 07:59:38.363412959: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:38.363452167: Status: SensorOperationModeCapture -> com.apple.springboard[2710165830]
+2020-01-12 07:59:38.425600375: Status: TemplateListNotUpdated -> com.apple.springboard[2710165830]
+2020-01-12 07:59:38.425600375: BioLog: Template: Update: No topology
+2020-01-12 07:59:38.425600375: BioLog::IMG*: 1578833976_317-2020_01_12_07_59_36_317-00-000000d9fd3c3f7e.pgm
+2020-01-12 07:59:38.864951542: Sensor: 0x11,0x01,0x01,0x00,0x04,0xxxxxxxxx (SENSOR_WAIT_FINGER,CS_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,NoInt,NoReset,NoData),x)
+2020-01-12 07:59:39.001404875: Status: TemplateListNotUpdated -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.001404875: BioLog: Template: Update: No topology
+2020-01-12 07:59:39.001404875: BioLog::IMG*: 1578833976_470-2020_01_12_07_59_36_470-01-000000d9fd747ba8.pgm
+2020-01-12 07:59:39.161040959: Sensor: 0x13,0x00,0x01,0x00,0x0e,0x00000000 (SENSOR_CAP,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:39.161360292: Status: FingerOn -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.165419834: System: ScanningState: ShortScanning
+2020-01-12 07:59:39.166475292: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:39.214545167: Kernel: HomeBn: Pressed
+2020-01-12 07:59:39.239712084: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:39.272528250: Status: ImageCaptured -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.272845459: Status: ImageForProcessing -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.318521625: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:39.351375625: Status: ImageCaptured -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.351678000: Status: ImageWasAccepted
+2020-01-12 07:59:39.351678000: Status::[Fb:IQ_FB_OK],[Asses:IQ_ACC],[ImgDiag.uiNumPxOutliers:0],[Prp:7],[ImgDiag.fBright:0.1316731],[HomeButton:4],[ImgDiag.fCont:0.0435717],[Dirt:0],[ImgDiag.eProbCl:NoProb],[MenuPin:120],[ImgDiag.fFStrength:0.01061542],[ImgDiag.fClFeat:106.7642,1.691736,1.691736,106.7642,103.6499] -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.272659584: BioLog: CAP: 1578833979_272-2020_01_12_07_59_39_272-00-000000da017685d0.bin16 NO DATA!
+2020-01-12 07:59:39.272659584: BioLog: IMG: 1578833979_272-2020_01_12_07_59_39_272-00-000000da017685d0.pgm NO DATA!
+2020-01-12 07:59:39.397346167: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:39.423416334: Kernel: HomeBn: Released
+2020-01-12 07:59:39.430256625: Status: ImageCaptured -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.448417084: SEPSKS: 501: ApplePayTokenPresent,UnlockTokenPresent
+2020-01-12 07:59:39.464907000: BioKit: CANCEL - com.apple.springboard[2710165830]
+2020-01-12 07:59:39.465213167: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:39.465710667: BioKit: getBioLockoutState:forUser:withClient:::.
+2020-01-12 07:59:39.466036917: BioKit: CANCEL - com.apple.springboard[2710165830]
+2020-01-12 07:59:39.466222625: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:39.453051209: Match : Result: MATCH: [BKMatchDetailLOTLUserIDs:501],[BKUnlockedMatchRetryCount:0],[matchNodeIndex:18],[BKMatchDetailHomeButtonPressed:1],[BKMatchDetailCredentialAdded:1],[BKUnlockedMatchRetryLimit:5],[BKMatchDetailLockoutState:520],[matchS2SCount:1],[BKMatchDetailUnlocked:1]
+2020-01-12 07:59:39.453051209: Match ::IMG*: 1578833979_272-2020_01_12_07_59_39_272-00-000000da017685d0.pgm
+2020-01-12 07:59:39.453051209: Match ::Identity: [attribute:0],[entity:0],[userID:501],[name:Finger 1],[type:1],[uuid:00000000-SEED-SEED-SEED-000000000000]
+2020-01-12 07:59:39.453051209: Match ::IDT*: 00000000-SEED-SEED-SEED-000000000000 'Finger 1' -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.453051209: Match ::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:39.508914875: Status: ?EnrollmentProgress: 400 -> [nil]
+2020-01-12 07:59:39.453269709: Status: RequestFingerOff -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.453969584: SEPSKS: 501: ApplePayTokenPresent,UnlockTokenPresent
+2020-01-12 07:59:39.454098792: Status: ImageQueueIsEmpty -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.526851375: Status: TaskResumed -> com.apple.springboard[1891829649]
+2020-01-12 07:59:39.465366417: Status: MatchingCancelled -> com.apple.springboard[2710165830]
+2020-01-12 07:59:39.465366417: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:39.492990334: Sensor: 0x07,0x00,0x00,0x00,0x8e,0x00007200 (SENSOR_DATA_READY,CS_OK,TestPatch,SA_NO_ERRORS,(NoSPIErr,FOn,Calib,Int,NoReset,Data),29184B)
+2020-01-12 07:59:39.525369584: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:39.524712750: Status: SensorOperationModePause -> com.apple.springboard[1891829649]
+2020-01-12 07:59:39.525594000: System: ScanningState: Idle
+2020-01-12 07:59:39.525812500: System: MobileKeyBag: DeviceInBioUnlock
+2020-01-12 07:59:39.550956417: BioKit: getBioLockoutState:forUser:withClient:: [user:501] - com.apple.springboard[3393287223]
+2020-01-12 07:59:39.566936709: BioKit: CANCEL - com.apple.springboard[1891829649]
+2020-01-12 07:59:39.567163667: BioKit::.
+2020-01-12 07:59:39.567021625: Status: FingerDetectCancelled -> com.apple.springboard[1891829649]
+2020-01-12 07:59:39.567021625: Status::<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2020-01-12 07:59:39.637043084: Status: TemplateListUpdated -> [nil]
+2020-01-12 07:59:39.637043084: BioLog: Template: Update: 00000000-SEED-SEED-SEED-000000000000: [userID:501],[nodeAdded:18],[addedToTemplate:0],[nodeRemoved:18],[matchNodeIndex:18],[removedFromTemplate:0],[matchS2SCount:0]
+2020-01-12 07:59:39.637043084: BioLog::IMG*: 1578833979_272-2020_01_12_07_59_39_272-00-000000da017685d0.pgm
+2020-01-12 07:59:39.637043084: BioLog: TPL+: 1578833979_671-2020_01_12_07_59_39_671-501-45f9527d.tpl NO DATA!
+2020-01-12 07:59:39.637043084: BioLog::IDT#: 1
+2020-01-12 07:59:39.637043084: BioLog::IDT+: 00000000-SEED-SEED-SEED-000000000000 'Finger 1'
+2020-01-12 07:59:39.892994500: Sensor: 0x00,0x00,0x01,0x00,0x0c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:59:39.893084459: Status: FingerOff -> [nil]
+2020-01-12 07:59:39.893718292: Sensor: 0x00,0x00,0x01,0x00,0x5c,0x11003351 (SENSOR_IDLE,CS_OK,ProdPatch,SA_NO_ERRORS,(NoSPIErr,FOff,Calib,Int,IdleCmd,NoData),(PID:3351,SR:A0,PR:17))
+2020-01-12 07:59:39.893755209: Status: SensorOperationModeIdle -> [nil]
+2020-01-12 07:59:39.893953500: Status: CredentialRemoved -> [nil]
+2020-01-12 07:59:39.909819125: Sensor: 0x11,0x00,0x01,0x00,0x0c,0x00000000 (SENSOR_WAIT_FINGER,CS_Starting_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,Int,NoReset,NoData),-)
+2020-01-12 07:59:39.909930750: Status: SensorOperationModeFdet -> [nil]
+2020-01-12 07:59:40.411333667: Sensor: 0x11,0x01,0x01,0x00,0x04,0xxxxxxxxx (SENSOR_WAIT_FINGER,CS_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,NoInt,NoReset,NoData),x)
+2020-01-12 07:59:40.912953542: Sensor::.
+2020-01-12 07:59:41.061778084: Status: TemplateListNotUpdated -> [nil]
+2020-01-12 07:59:41.061778084: BioLog: Template: Update: No topology
+2020-01-12 07:59:41.061778084: BioLog::IMG*: 1578833977_539-2020_01_12_07_59_37_539-00-000000d9fefbbe9a.pgm
+2020-01-12 07:59:41.414545792: Sensor: 0x11,0x01,0x01,0x00,0x04,0xxxxxxxxx (SENSOR_WAIT_FINGER,CS_FBFD,ProdPatch,0,(NoSPIErr,FOff,Calib,NoInt,NoReset,NoData),x)
+2020-01-12 07:59:41.916135875: Sensor::...

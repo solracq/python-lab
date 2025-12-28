@@ -1,5 +1,5 @@
 '''
-@author: Carlos Q.
+@author: solrac.
 '''
 import pytest
 import logging

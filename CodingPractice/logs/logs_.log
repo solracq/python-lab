@@ -1,0 +1,1280 @@
+2020-02-04 21:26:57,477 - INFO Convert dictionary to json
+2020-02-04 21:26:57,478 - DEBUG Create config File
+2020-02-04 21:26:57,478 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:26:57,478 - DEBUG dumping data to and create a json file
+2020-02-04 21:26:57,479 - INFO Convert json file into a dictionary
+2020-02-04 21:26:57,479 - DEBUG accessing data form the json file using load
+2020-02-04 21:26:57,479 - INFO practice converting to jsonfile
+2020-02-04 21:26:57,480 - INFO practice converting to dictionary
+2020-02-04 21:39:24,841 - INFO Convert dictionary to json
+2020-02-04 21:39:24,842 - DEBUG Create config File
+2020-02-04 21:39:24,842 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:39:24,859 - DEBUG dumping data to and create a json file
+2020-02-04 21:39:24,860 - INFO Convert json file into a dictionary
+2020-02-04 21:39:24,860 - DEBUG accessing data form the json file using load
+2020-02-04 21:39:24,860 - INFO practice converting to jsonfile
+2020-02-04 21:39:24,861 - INFO practice converting to dictionary
+2020-02-04 21:39:28,199 - INFO Convert dictionary to json
+2020-02-04 21:39:28,199 - DEBUG Create config File
+2020-02-04 21:39:28,199 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:39:28,199 - DEBUG dumping data to and create a json file
+2020-02-04 21:39:28,200 - INFO Convert json file into a dictionary
+2020-02-04 21:39:28,200 - DEBUG accessing data form the json file using load
+2020-02-04 21:39:28,201 - INFO practice converting to jsonfile
+2020-02-04 21:39:28,201 - INFO practice converting to dictionary
+2020-02-04 21:41:47,654 - INFO Convert dictionary to json
+2020-02-04 21:41:47,655 - DEBUG Create config File
+2020-02-04 21:41:47,655 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:41:47,655 - DEBUG dumping data to and create a json file
+2020-02-04 21:41:47,655 - INFO Convert json file into a dictionary
+2020-02-04 21:41:47,656 - DEBUG accessing data form the json file using load
+2020-02-04 21:41:47,656 - INFO practice converting to jsonfile
+2020-02-04 21:41:47,657 - INFO practice converting to dictionary
+2020-02-04 21:42:45,250 - INFO Convert dictionary to json
+2020-02-04 21:42:45,250 - DEBUG Create config File
+2020-02-04 21:42:45,250 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:42:45,250 - DEBUG dumping data to and create a json file
+2020-02-04 21:42:45,251 - INFO Convert json file into a dictionary
+2020-02-04 21:42:45,251 - DEBUG accessing data form the json file using load
+2020-02-04 21:42:45,251 - INFO practice converting to jsonfile
+2020-02-04 21:42:45,252 - INFO practice converting to dictionary
+2020-02-04 21:47:13,374 - INFO Convert dictionary to json
+2020-02-04 21:47:13,374 - DEBUG Create config File
+2020-02-04 21:47:13,374 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:47:13,375 - DEBUG dumping data to and create a json file
+2020-02-04 21:47:13,375 - INFO Convert json file into a dictionary
+2020-02-04 21:47:13,375 - DEBUG accessing data form the json file using load
+2020-02-04 21:47:13,376 - INFO practice converting to jsonfile
+2020-02-04 21:47:13,377 - INFO practice converting to dictionary
+2020-02-04 21:47:49,995 - INFO Convert dictionary to json
+2020-02-04 21:47:49,995 - DEBUG Create config File
+2020-02-04 21:47:49,995 - DEBUG dumping data to a variable using the json library
+2020-02-04 21:47:49,995 - DEBUG dumping data to and create a json file
+2020-02-04 21:47:49,996 - INFO Convert json file into a dictionary
+2020-02-04 21:47:49,996 - DEBUG accessing data form the json file using load
+2020-02-04 21:47:49,997 - INFO practice converting to jsonfile
+2020-02-04 21:47:49,998 - INFO practice converting to dictionary
+2020-02-04 22:00:56,296 - INFO Convert dictionary to json
+2020-02-04 22:00:56,296 - DEBUG Create config File
+2020-02-04 22:00:56,296 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:00:56,296 - DEBUG dumping data to and create a json file
+2020-02-04 22:00:56,297 - INFO Convert json file into a dictionary
+2020-02-04 22:00:56,297 - DEBUG accessing data form the json file using load
+2020-02-04 22:00:56,297 - INFO practice converting to jsonfile
+2020-02-04 22:00:56,298 - INFO practice converting to dictionary
+2020-02-04 22:03:23,335 - INFO Convert dictionary to json
+2020-02-04 22:03:23,335 - DEBUG Create config File
+2020-02-04 22:03:23,335 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:03:23,335 - DEBUG dumping data to and create a json file
+2020-02-04 22:03:23,336 - INFO Convert json file into a dictionary
+2020-02-04 22:03:23,336 - DEBUG accessing data form the json file using load
+2020-02-04 22:03:23,336 - INFO practice converting to jsonfile
+2020-02-04 22:03:23,337 - INFO practice converting to dictionary
+2020-02-04 22:04:03,112 - INFO Convert dictionary to json
+2020-02-04 22:04:03,112 - DEBUG Create config File
+2020-02-04 22:04:03,112 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:04:03,112 - DEBUG dumping data to and create a json file
+2020-02-04 22:04:03,113 - INFO Convert json file into a dictionary
+2020-02-04 22:04:03,113 - DEBUG accessing data form the json file using load
+2020-02-04 22:04:03,114 - INFO practice converting to jsonfile
+2020-02-04 22:04:03,114 - INFO practice converting to dictionary
+2020-02-04 22:05:26,845 - INFO Convert dictionary to json
+2020-02-04 22:05:26,845 - DEBUG Create config File
+2020-02-04 22:05:26,845 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:05:26,845 - DEBUG dumping data to and create a json file
+2020-02-04 22:05:26,846 - INFO Convert json file into a dictionary
+2020-02-04 22:05:26,846 - DEBUG accessing data form the json file using load
+2020-02-04 22:05:26,846 - INFO practice converting to jsonfile
+2020-02-04 22:05:26,847 - INFO practice converting to dictionary
+2020-02-04 22:05:44,567 - INFO Convert dictionary to json
+2020-02-04 22:05:44,568 - DEBUG Create config File
+2020-02-04 22:05:44,568 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:05:44,568 - DEBUG dumping data to and create a json file
+2020-02-04 22:05:44,569 - INFO Convert json file into a dictionary
+2020-02-04 22:05:44,569 - DEBUG accessing data form the json file using load
+2020-02-04 22:05:44,569 - INFO practice converting to jsonfile
+2020-02-04 22:05:44,570 - INFO practice converting to dictionary
+2020-02-04 22:06:38,966 - INFO Convert dictionary to json
+2020-02-04 22:06:38,966 - DEBUG Create config File
+2020-02-04 22:06:38,967 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:06:38,967 - DEBUG dumping data to and create a json file
+2020-02-04 22:06:38,967 - INFO Convert json file into a dictionary
+2020-02-04 22:06:38,967 - DEBUG accessing data form the json file using load
+2020-02-04 22:06:38,968 - INFO practice converting to jsonfile
+2020-02-04 22:06:38,968 - INFO practice converting to dictionary
+2020-02-04 22:07:21,431 - INFO Convert dictionary to json
+2020-02-04 22:07:21,432 - DEBUG Create config File
+2020-02-04 22:07:21,432 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:07:21,432 - DEBUG dumping data to and create a json file
+2020-02-04 22:07:21,433 - INFO Convert json file into a dictionary
+2020-02-04 22:07:21,433 - DEBUG accessing data form the json file using load
+2020-02-04 22:07:21,434 - INFO practice converting to jsonfile
+2020-02-04 22:07:21,434 - INFO practice converting to dictionary
+2020-02-04 22:08:42,317 - INFO Convert dictionary to json
+2020-02-04 22:08:42,317 - DEBUG Create config File
+2020-02-04 22:08:42,318 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:08:42,318 - DEBUG dumping data to and create a json file
+2020-02-04 22:08:42,318 - INFO Convert json file into a dictionary
+2020-02-04 22:08:42,319 - DEBUG accessing data form the json file using load
+2020-02-04 22:08:42,319 - INFO practice converting to jsonfile
+2020-02-04 22:08:42,320 - INFO practice converting to dictionary
+2020-02-04 22:08:43,573 - INFO Convert dictionary to json
+2020-02-04 22:08:43,573 - DEBUG Create config File
+2020-02-04 22:08:43,573 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:08:43,573 - DEBUG dumping data to and create a json file
+2020-02-04 22:08:43,574 - INFO Convert json file into a dictionary
+2020-02-04 22:08:43,574 - DEBUG accessing data form the json file using load
+2020-02-04 22:08:43,574 - INFO practice converting to jsonfile
+2020-02-04 22:08:43,575 - INFO practice converting to dictionary
+2020-02-04 22:10:41,922 - INFO Convert dictionary to json
+2020-02-04 22:10:41,922 - DEBUG Create config File
+2020-02-04 22:10:41,922 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:10:41,922 - DEBUG dumping data to and create a json file
+2020-02-04 22:10:41,923 - INFO Convert json file into a dictionary
+2020-02-04 22:10:41,923 - DEBUG accessing data form the json file using load
+2020-02-04 22:10:41,924 - INFO practice converting to jsonfile
+2020-02-04 22:10:41,925 - INFO practice converting to dictionary
+2020-02-04 22:11:24,581 - INFO Convert dictionary to json
+2020-02-04 22:11:24,581 - DEBUG Create config File
+2020-02-04 22:11:24,581 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:11:24,581 - DEBUG dumping data to and create a json file
+2020-02-04 22:11:24,582 - INFO Convert json file into a dictionary
+2020-02-04 22:11:24,582 - DEBUG accessing data form the json file using load
+2020-02-04 22:11:24,583 - INFO practice converting to jsonfile
+2020-02-04 22:11:24,584 - INFO practice converting to dictionary
+2020-02-04 22:11:26,414 - INFO Convert dictionary to json
+2020-02-04 22:11:26,414 - DEBUG Create config File
+2020-02-04 22:11:26,414 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:11:26,414 - DEBUG dumping data to and create a json file
+2020-02-04 22:11:26,415 - INFO Convert json file into a dictionary
+2020-02-04 22:11:26,415 - DEBUG accessing data form the json file using load
+2020-02-04 22:11:26,416 - INFO practice converting to jsonfile
+2020-02-04 22:11:26,416 - INFO practice converting to dictionary
+2020-02-04 22:12:19,182 - INFO Convert dictionary to json
+2020-02-04 22:12:19,182 - DEBUG Create config File
+2020-02-04 22:12:19,182 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:12:19,183 - DEBUG dumping data to and create a json file
+2020-02-04 22:12:19,183 - INFO Convert json file into a dictionary
+2020-02-04 22:12:19,183 - DEBUG accessing data form the json file using load
+2020-02-04 22:12:19,184 - INFO practice converting to jsonfile
+2020-02-04 22:12:19,184 - INFO practice converting to dictionary
+2020-02-04 22:13:28,013 - INFO Convert dictionary to json
+2020-02-04 22:13:28,013 - DEBUG Create config File
+2020-02-04 22:13:28,013 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:13:28,014 - DEBUG dumping data to and create a json file
+2020-02-04 22:13:28,014 - INFO Convert json file into a dictionary
+2020-02-04 22:13:28,014 - DEBUG accessing data form the json file using load
+2020-02-04 22:13:28,015 - INFO practice converting to jsonfile
+2020-02-04 22:13:28,015 - INFO practice converting to dictionary
+2020-02-04 22:14:00,958 - INFO Convert dictionary to json
+2020-02-04 22:14:00,958 - DEBUG Create config File
+2020-02-04 22:14:00,958 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:14:00,959 - DEBUG dumping data to and create a json file
+2020-02-04 22:14:00,959 - INFO Convert json file into a dictionary
+2020-02-04 22:14:00,959 - DEBUG accessing data form the json file using load
+2020-02-04 22:14:00,960 - INFO practice converting to jsonfile
+2020-02-04 22:14:00,960 - INFO practice converting to dictionary
+2020-02-04 22:14:02,693 - INFO Convert dictionary to json
+2020-02-04 22:14:02,694 - DEBUG Create config File
+2020-02-04 22:14:02,694 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:14:02,694 - DEBUG dumping data to and create a json file
+2020-02-04 22:14:02,695 - INFO Convert json file into a dictionary
+2020-02-04 22:14:02,695 - DEBUG accessing data form the json file using load
+2020-02-04 22:14:02,695 - INFO practice converting to jsonfile
+2020-02-04 22:14:02,696 - INFO practice converting to dictionary
+2020-02-04 22:17:03,103 - INFO Convert dictionary to json
+2020-02-04 22:17:03,103 - DEBUG Create config File
+2020-02-04 22:17:03,103 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:17:03,103 - DEBUG dumping data to and create a json file
+2020-02-04 22:17:03,104 - INFO Convert json file into a dictionary
+2020-02-04 22:17:03,104 - DEBUG accessing data form the json file using load
+2020-02-04 22:17:03,104 - INFO practice converting to jsonfile
+2020-02-04 22:17:03,105 - INFO practice converting to dictionary
+2020-02-04 22:17:05,202 - INFO Convert dictionary to json
+2020-02-04 22:17:05,202 - DEBUG Create config File
+2020-02-04 22:17:05,202 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:17:05,203 - DEBUG dumping data to and create a json file
+2020-02-04 22:17:05,203 - INFO Convert json file into a dictionary
+2020-02-04 22:17:05,203 - DEBUG accessing data form the json file using load
+2020-02-04 22:17:05,204 - INFO practice converting to jsonfile
+2020-02-04 22:17:05,204 - INFO practice converting to dictionary
+2020-02-04 22:17:15,749 - INFO Convert dictionary to json
+2020-02-04 22:17:15,749 - DEBUG Create config File
+2020-02-04 22:17:15,749 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:17:15,750 - DEBUG dumping data to and create a json file
+2020-02-04 22:17:15,750 - INFO Convert json file into a dictionary
+2020-02-04 22:17:15,750 - DEBUG accessing data form the json file using load
+2020-02-04 22:17:15,751 - INFO practice converting to jsonfile
+2020-02-04 22:17:15,752 - INFO practice converting to dictionary
+2020-02-04 22:19:53,788 - INFO Convert dictionary to json
+2020-02-04 22:19:53,789 - DEBUG Create config File
+2020-02-04 22:19:53,789 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:19:53,789 - DEBUG dumping data to and create a json file
+2020-02-04 22:19:53,789 - INFO Convert json file into a dictionary
+2020-02-04 22:19:53,790 - DEBUG accessing data form the json file using load
+2020-02-04 22:19:53,790 - INFO practice converting to jsonfile
+2020-02-04 22:19:53,791 - INFO practice converting to dictionary
+2020-02-04 22:20:46,157 - INFO Convert dictionary to json
+2020-02-04 22:20:46,157 - DEBUG Create config File
+2020-02-04 22:20:46,157 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:20:46,157 - DEBUG dumping data to and create a json file
+2020-02-04 22:20:46,158 - INFO Convert json file into a dictionary
+2020-02-04 22:20:46,158 - DEBUG accessing data form the json file using load
+2020-02-04 22:20:46,158 - INFO practice converting to jsonfile
+2020-02-04 22:20:46,159 - INFO practice converting to dictionary
+2020-02-04 22:20:59,248 - INFO Convert dictionary to json
+2020-02-04 22:20:59,248 - DEBUG Create config File
+2020-02-04 22:20:59,248 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:20:59,248 - DEBUG dumping data to and create a json file
+2020-02-04 22:20:59,249 - INFO Convert json file into a dictionary
+2020-02-04 22:20:59,249 - DEBUG accessing data form the json file using load
+2020-02-04 22:20:59,249 - INFO practice converting to jsonfile
+2020-02-04 22:20:59,250 - INFO practice converting to dictionary
+2020-02-04 22:21:43,581 - INFO Convert dictionary to json
+2020-02-04 22:21:43,581 - DEBUG Create config File
+2020-02-04 22:21:43,581 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:21:43,581 - DEBUG dumping data to and create a json file
+2020-02-04 22:21:43,582 - INFO Convert json file into a dictionary
+2020-02-04 22:21:43,582 - DEBUG accessing data form the json file using load
+2020-02-04 22:21:43,583 - INFO practice converting to jsonfile
+2020-02-04 22:21:43,584 - INFO practice converting to dictionary
+2020-02-04 22:27:44,742 - INFO Convert dictionary to json
+2020-02-04 22:27:44,742 - DEBUG Create config File
+2020-02-04 22:27:44,742 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:27:44,742 - DEBUG dumping data to and create a json file
+2020-02-04 22:27:44,743 - INFO Convert json file into a dictionary
+2020-02-04 22:27:44,743 - DEBUG accessing data form the json file using load
+2020-02-04 22:27:44,744 - INFO practice converting to jsonfile
+2020-02-04 22:27:44,744 - INFO practice converting to dictionary
+2020-02-04 22:28:15,534 - INFO Convert dictionary to json
+2020-02-04 22:28:15,534 - DEBUG Create config File
+2020-02-04 22:28:15,535 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:28:15,535 - DEBUG dumping data to and create a json file
+2020-02-04 22:28:15,536 - INFO Convert json file into a dictionary
+2020-02-04 22:28:15,536 - DEBUG accessing data form the json file using load
+2020-02-04 22:28:15,537 - INFO practice converting to jsonfile
+2020-02-04 22:28:15,538 - INFO practice converting to dictionary
+2020-02-04 22:28:55,097 - INFO Convert dictionary to json
+2020-02-04 22:28:55,097 - DEBUG Create config File
+2020-02-04 22:28:55,097 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:28:55,097 - DEBUG dumping data to and create a json file
+2020-02-04 22:28:55,098 - INFO Convert json file into a dictionary
+2020-02-04 22:28:55,098 - DEBUG accessing data form the json file using load
+2020-02-04 22:28:55,099 - INFO practice converting to jsonfile
+2020-02-04 22:28:55,100 - INFO practice converting to dictionary
+2020-02-04 22:29:18,168 - INFO Convert dictionary to json
+2020-02-04 22:29:18,168 - DEBUG Create config File
+2020-02-04 22:29:18,168 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:29:18,168 - DEBUG dumping data to and create a json file
+2020-02-04 22:29:18,169 - INFO Convert json file into a dictionary
+2020-02-04 22:29:18,169 - DEBUG accessing data form the json file using load
+2020-02-04 22:29:18,169 - INFO practice converting to jsonfile
+2020-02-04 22:29:18,170 - INFO practice converting to dictionary
+2020-02-04 22:29:24,725 - INFO Convert dictionary to json
+2020-02-04 22:29:24,725 - DEBUG Create config File
+2020-02-04 22:29:24,725 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:29:24,726 - DEBUG dumping data to and create a json file
+2020-02-04 22:29:24,726 - INFO Convert json file into a dictionary
+2020-02-04 22:29:24,726 - DEBUG accessing data form the json file using load
+2020-02-04 22:29:24,727 - INFO practice converting to jsonfile
+2020-02-04 22:29:24,728 - INFO practice converting to dictionary
+2020-02-04 22:31:47,683 - INFO Convert dictionary to json
+2020-02-04 22:31:47,684 - DEBUG Create config File
+2020-02-04 22:31:47,684 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:31:47,684 - DEBUG dumping data to and create a json file
+2020-02-04 22:31:47,684 - INFO Convert json file into a dictionary
+2020-02-04 22:31:47,685 - DEBUG accessing data form the json file using load
+2020-02-04 22:31:47,685 - INFO practice converting to jsonfile
+2020-02-04 22:31:47,686 - INFO practice converting to dictionary
+2020-02-04 22:32:19,445 - INFO Convert dictionary to json
+2020-02-04 22:32:19,445 - DEBUG Create config File
+2020-02-04 22:32:19,445 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:32:19,445 - DEBUG dumping data to and create a json file
+2020-02-04 22:32:19,446 - INFO Convert json file into a dictionary
+2020-02-04 22:32:19,446 - DEBUG accessing data form the json file using load
+2020-02-04 22:32:19,446 - INFO practice converting to jsonfile
+2020-02-04 22:32:19,447 - INFO practice converting to dictionary
+2020-02-04 22:32:39,328 - INFO Convert dictionary to json
+2020-02-04 22:32:39,328 - DEBUG Create config File
+2020-02-04 22:32:39,328 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:32:39,328 - DEBUG dumping data to and create a json file
+2020-02-04 22:32:39,329 - INFO Convert json file into a dictionary
+2020-02-04 22:32:39,329 - DEBUG accessing data form the json file using load
+2020-02-04 22:32:39,330 - INFO practice converting to jsonfile
+2020-02-04 22:32:39,331 - INFO practice converting to dictionary
+2020-02-04 22:32:47,058 - INFO Convert dictionary to json
+2020-02-04 22:32:47,058 - DEBUG Create config File
+2020-02-04 22:32:47,059 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:32:47,059 - DEBUG dumping data to and create a json file
+2020-02-04 22:32:47,059 - INFO Convert json file into a dictionary
+2020-02-04 22:32:47,059 - DEBUG accessing data form the json file using load
+2020-02-04 22:32:47,060 - INFO practice converting to jsonfile
+2020-02-04 22:32:47,060 - INFO practice converting to dictionary
+2020-02-04 22:32:52,176 - INFO Convert dictionary to json
+2020-02-04 22:32:52,176 - DEBUG Create config File
+2020-02-04 22:32:52,176 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:32:52,176 - DEBUG dumping data to and create a json file
+2020-02-04 22:32:52,177 - INFO Convert json file into a dictionary
+2020-02-04 22:32:52,177 - DEBUG accessing data form the json file using load
+2020-02-04 22:32:52,177 - INFO practice converting to jsonfile
+2020-02-04 22:32:52,178 - INFO practice converting to dictionary
+2020-02-04 22:33:25,215 - INFO Convert dictionary to json
+2020-02-04 22:33:25,215 - DEBUG Create config File
+2020-02-04 22:33:25,215 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:33:25,215 - DEBUG dumping data to and create a json file
+2020-02-04 22:33:25,216 - INFO Convert json file into a dictionary
+2020-02-04 22:33:25,216 - DEBUG accessing data form the json file using load
+2020-02-04 22:33:25,217 - INFO practice converting to jsonfile
+2020-02-04 22:33:25,217 - INFO practice converting to dictionary
+2020-02-04 22:37:34,744 - INFO Convert dictionary to json
+2020-02-04 22:37:34,744 - DEBUG Create config File
+2020-02-04 22:37:34,744 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:37:34,745 - DEBUG dumping data to and create a json file
+2020-02-04 22:37:34,746 - INFO Convert json file into a dictionary
+2020-02-04 22:37:34,746 - DEBUG accessing data form the json file using load
+2020-02-04 22:37:34,747 - INFO practice converting to jsonfile
+2020-02-04 22:37:34,748 - INFO practice converting to dictionary
+2020-02-04 22:38:03,183 - INFO Convert dictionary to json
+2020-02-04 22:38:03,183 - DEBUG Create config File
+2020-02-04 22:38:03,183 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:38:03,183 - DEBUG dumping data to and create a json file
+2020-02-04 22:38:03,184 - INFO Convert json file into a dictionary
+2020-02-04 22:38:03,184 - DEBUG accessing data form the json file using load
+2020-02-04 22:38:03,185 - INFO practice converting to jsonfile
+2020-02-04 22:38:03,185 - INFO practice converting to dictionary
+2020-02-04 22:39:18,229 - INFO Convert dictionary to json
+2020-02-04 22:39:18,229 - DEBUG Create config File
+2020-02-04 22:39:18,229 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:39:18,229 - DEBUG dumping data to and create a json file
+2020-02-04 22:39:18,230 - INFO Convert json file into a dictionary
+2020-02-04 22:39:18,230 - DEBUG accessing data form the json file using load
+2020-02-04 22:39:18,231 - INFO practice converting to jsonfile
+2020-02-04 22:39:18,231 - INFO practice converting to dictionary
+2020-02-04 22:40:21,379 - INFO Convert dictionary to json
+2020-02-04 22:40:21,379 - DEBUG Create config File
+2020-02-04 22:40:21,379 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:40:21,379 - DEBUG dumping data to and create a json file
+2020-02-04 22:40:21,380 - INFO Convert json file into a dictionary
+2020-02-04 22:40:21,380 - DEBUG accessing data form the json file using load
+2020-02-04 22:40:21,381 - INFO practice converting to jsonfile
+2020-02-04 22:40:21,381 - INFO practice converting to dictionary
+2020-02-04 22:42:30,981 - INFO Convert dictionary to json
+2020-02-04 22:42:30,981 - DEBUG Create config File
+2020-02-04 22:42:30,981 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:42:30,981 - DEBUG dumping data to and create a json file
+2020-02-04 22:42:30,982 - INFO Convert json file into a dictionary
+2020-02-04 22:42:30,982 - DEBUG accessing data form the json file using load
+2020-02-04 22:42:30,983 - INFO practice converting to jsonfile
+2020-02-04 22:42:30,983 - INFO practice converting to dictionary
+2020-02-04 22:43:03,565 - INFO Convert dictionary to json
+2020-02-04 22:43:03,565 - DEBUG Create config File
+2020-02-04 22:43:03,565 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:43:03,565 - DEBUG dumping data to and create a json file
+2020-02-04 22:43:03,566 - INFO Convert json file into a dictionary
+2020-02-04 22:43:03,566 - DEBUG accessing data form the json file using load
+2020-02-04 22:43:03,567 - INFO practice converting to jsonfile
+2020-02-04 22:43:03,568 - INFO practice converting to dictionary
+2020-02-04 22:43:26,301 - INFO Convert dictionary to json
+2020-02-04 22:43:26,302 - DEBUG Create config File
+2020-02-04 22:43:26,302 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:43:26,302 - DEBUG dumping data to and create a json file
+2020-02-04 22:43:26,303 - INFO Convert json file into a dictionary
+2020-02-04 22:43:26,303 - DEBUG accessing data form the json file using load
+2020-02-04 22:43:26,303 - INFO practice converting to jsonfile
+2020-02-04 22:43:26,304 - INFO practice converting to dictionary
+2020-02-04 22:45:24,683 - INFO Convert dictionary to json
+2020-02-04 22:45:24,684 - DEBUG Create config File
+2020-02-04 22:45:24,684 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:45:24,684 - DEBUG dumping data to and create a json file
+2020-02-04 22:45:24,684 - INFO Convert json file into a dictionary
+2020-02-04 22:45:24,684 - DEBUG accessing data form the json file using load
+2020-02-04 22:45:24,685 - INFO practice converting to jsonfile
+2020-02-04 22:45:24,686 - INFO practice converting to dictionary
+2020-02-04 22:46:54,573 - INFO Convert dictionary to json
+2020-02-04 22:46:54,574 - DEBUG Create config File
+2020-02-04 22:46:54,574 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:46:54,574 - DEBUG dumping data to and create a json file
+2020-02-04 22:46:54,574 - INFO Convert json file into a dictionary
+2020-02-04 22:46:54,574 - DEBUG accessing data form the json file using load
+2020-02-04 22:46:54,575 - INFO practice converting to jsonfile
+2020-02-04 22:46:54,576 - INFO practice converting to dictionary
+2020-02-04 22:46:56,337 - INFO Convert dictionary to json
+2020-02-04 22:46:56,337 - DEBUG Create config File
+2020-02-04 22:46:56,338 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:46:56,338 - DEBUG dumping data to and create a json file
+2020-02-04 22:46:56,338 - INFO Convert json file into a dictionary
+2020-02-04 22:46:56,338 - DEBUG accessing data form the json file using load
+2020-02-04 22:46:56,339 - INFO practice converting to jsonfile
+2020-02-04 22:46:56,339 - INFO practice converting to dictionary
+2020-02-04 22:47:21,153 - INFO Convert dictionary to json
+2020-02-04 22:47:21,153 - DEBUG Create config File
+2020-02-04 22:47:21,153 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:47:21,153 - DEBUG dumping data to and create a json file
+2020-02-04 22:47:21,154 - INFO Convert json file into a dictionary
+2020-02-04 22:47:21,154 - DEBUG accessing data form the json file using load
+2020-02-04 22:47:21,155 - INFO practice converting to jsonfile
+2020-02-04 22:47:21,156 - INFO practice converting to dictionary
+2020-02-04 22:52:52,794 - INFO Convert dictionary to json
+2020-02-04 22:52:52,795 - DEBUG Create config File
+2020-02-04 22:52:52,795 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:52:52,795 - DEBUG dumping data to and create a json file
+2020-02-04 22:52:52,796 - INFO Convert json file into a dictionary
+2020-02-04 22:52:52,796 - DEBUG accessing data form the json file using load
+2020-02-04 22:52:52,796 - INFO practice converting to jsonfile
+2020-02-04 22:52:52,797 - INFO practice converting to dictionary
+2020-02-04 22:56:11,411 - INFO Convert dictionary to json
+2020-02-04 22:56:11,412 - DEBUG Create config File
+2020-02-04 22:56:11,412 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:56:11,412 - DEBUG dumping data to and create a json file
+2020-02-04 22:56:11,413 - INFO Convert json file into a dictionary
+2020-02-04 22:56:11,413 - DEBUG accessing data form the json file using load
+2020-02-04 22:56:11,413 - INFO practice converting to jsonfile
+2020-02-04 22:56:11,414 - INFO practice converting to dictionary
+2020-02-04 22:56:13,002 - INFO Convert dictionary to json
+2020-02-04 22:56:13,002 - DEBUG Create config File
+2020-02-04 22:56:13,002 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:56:13,002 - DEBUG dumping data to and create a json file
+2020-02-04 22:56:13,003 - INFO Convert json file into a dictionary
+2020-02-04 22:56:13,003 - DEBUG accessing data form the json file using load
+2020-02-04 22:56:13,003 - INFO practice converting to jsonfile
+2020-02-04 22:56:13,004 - INFO practice converting to dictionary
+2020-02-04 22:56:21,649 - INFO Convert dictionary to json
+2020-02-04 22:56:21,649 - DEBUG Create config File
+2020-02-04 22:56:21,649 - DEBUG dumping data to a variable using the json library
+2020-02-04 22:56:21,649 - DEBUG dumping data to and create a json file
+2020-02-04 22:56:21,650 - INFO Convert json file into a dictionary
+2020-02-04 22:56:21,650 - DEBUG accessing data form the json file using load
+2020-02-04 22:56:21,650 - INFO practice converting to jsonfile
+2020-02-04 22:56:21,651 - INFO practice converting to dictionary
+2020-02-04 23:01:20,364 - INFO Convert dictionary to json
+2020-02-04 23:01:20,364 - DEBUG Create config File
+2020-02-04 23:01:20,364 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:01:20,364 - DEBUG dumping data to and create a json file
+2020-02-04 23:01:20,365 - INFO Convert json file into a dictionary
+2020-02-04 23:01:20,365 - DEBUG accessing data form the json file using load
+2020-02-04 23:01:20,365 - INFO practice converting to jsonfile
+2020-02-04 23:01:20,366 - INFO practice converting to dictionary
+2020-02-04 23:09:10,688 - INFO Convert dictionary to json
+2020-02-04 23:09:10,688 - DEBUG Create config File
+2020-02-04 23:09:10,689 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:09:10,689 - DEBUG dumping data to and create a json file
+2020-02-04 23:09:10,689 - INFO Convert json file into a dictionary
+2020-02-04 23:09:10,689 - DEBUG accessing data form the json file using load
+2020-02-04 23:09:10,690 - INFO practice converting to jsonfile
+2020-02-04 23:09:10,690 - INFO practice converting to dictionary
+2020-02-04 23:09:27,829 - INFO Convert dictionary to json
+2020-02-04 23:09:27,829 - DEBUG Create config File
+2020-02-04 23:09:27,829 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:09:27,830 - DEBUG dumping data to and create a json file
+2020-02-04 23:09:27,830 - INFO Convert json file into a dictionary
+2020-02-04 23:09:27,831 - DEBUG accessing data form the json file using load
+2020-02-04 23:09:27,831 - INFO practice converting to jsonfile
+2020-02-04 23:09:27,832 - INFO practice converting to dictionary
+2020-02-04 23:09:29,791 - INFO Convert dictionary to json
+2020-02-04 23:09:29,791 - DEBUG Create config File
+2020-02-04 23:09:29,791 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:09:29,792 - DEBUG dumping data to and create a json file
+2020-02-04 23:09:29,792 - INFO Convert json file into a dictionary
+2020-02-04 23:09:29,792 - DEBUG accessing data form the json file using load
+2020-02-04 23:09:29,793 - INFO practice converting to jsonfile
+2020-02-04 23:09:29,793 - INFO practice converting to dictionary
+2020-02-04 23:11:34,508 - INFO Convert dictionary to json
+2020-02-04 23:11:34,508 - DEBUG Create config File
+2020-02-04 23:11:34,508 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:11:34,509 - DEBUG dumping data to and create a json file
+2020-02-04 23:11:34,510 - INFO Convert json file into a dictionary
+2020-02-04 23:11:34,510 - DEBUG accessing data form the json file using load
+2020-02-04 23:11:34,510 - INFO practice converting to jsonfile
+2020-02-04 23:11:34,511 - INFO practice converting to dictionary
+2020-02-04 23:11:36,080 - INFO Convert dictionary to json
+2020-02-04 23:11:36,080 - DEBUG Create config File
+2020-02-04 23:11:36,080 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:11:36,081 - DEBUG dumping data to and create a json file
+2020-02-04 23:11:36,081 - INFO Convert json file into a dictionary
+2020-02-04 23:11:36,081 - DEBUG accessing data form the json file using load
+2020-02-04 23:11:36,082 - INFO practice converting to jsonfile
+2020-02-04 23:11:36,082 - INFO practice converting to dictionary
+2020-02-04 23:17:35,367 - INFO Convert dictionary to json
+2020-02-04 23:17:35,367 - DEBUG Create config File
+2020-02-04 23:17:35,367 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:17:35,367 - DEBUG dumping data to and create a json file
+2020-02-04 23:17:35,368 - INFO Convert json file into a dictionary
+2020-02-04 23:17:35,368 - DEBUG accessing data form the json file using load
+2020-02-04 23:17:35,369 - INFO practice converting to jsonfile
+2020-02-04 23:17:35,369 - INFO practice converting to dictionary
+2020-02-04 23:17:37,648 - INFO Convert dictionary to json
+2020-02-04 23:17:37,649 - DEBUG Create config File
+2020-02-04 23:17:37,649 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:17:37,649 - DEBUG dumping data to and create a json file
+2020-02-04 23:17:37,649 - INFO Convert json file into a dictionary
+2020-02-04 23:17:37,650 - DEBUG accessing data form the json file using load
+2020-02-04 23:17:37,650 - INFO practice converting to jsonfile
+2020-02-04 23:17:37,651 - INFO practice converting to dictionary
+2020-02-04 23:20:08,089 - INFO Convert dictionary to json
+2020-02-04 23:20:08,090 - DEBUG Create config File
+2020-02-04 23:20:08,090 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:20:08,090 - DEBUG dumping data to and create a json file
+2020-02-04 23:20:08,091 - INFO Convert json file into a dictionary
+2020-02-04 23:20:08,091 - DEBUG accessing data form the json file using load
+2020-02-04 23:20:08,091 - INFO practice converting to jsonfile
+2020-02-04 23:20:08,092 - INFO practice converting to dictionary
+2020-02-04 23:31:10,732 - INFO Convert dictionary to json
+2020-02-04 23:31:10,732 - DEBUG Create config File
+2020-02-04 23:31:10,732 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:31:10,732 - DEBUG dumping data to and create a json file
+2020-02-04 23:31:10,733 - INFO Convert json file into a dictionary
+2020-02-04 23:31:10,733 - DEBUG accessing data form the json file using load
+2020-02-04 23:31:10,734 - INFO practice converting to jsonfile
+2020-02-04 23:31:10,735 - INFO practice converting to dictionary
+2020-02-04 23:32:02,771 - INFO Convert dictionary to json
+2020-02-04 23:32:02,772 - DEBUG Create config File
+2020-02-04 23:32:02,772 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:32:02,772 - DEBUG dumping data to and create a json file
+2020-02-04 23:32:02,772 - INFO Convert json file into a dictionary
+2020-02-04 23:32:02,772 - DEBUG accessing data form the json file using load
+2020-02-04 23:32:02,773 - INFO practice converting to jsonfile
+2020-02-04 23:32:02,774 - INFO practice converting to dictionary
+2020-02-04 23:32:09,708 - INFO Convert dictionary to json
+2020-02-04 23:32:09,709 - DEBUG Create config File
+2020-02-04 23:32:09,709 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:32:09,709 - DEBUG dumping data to and create a json file
+2020-02-04 23:32:09,709 - INFO Convert json file into a dictionary
+2020-02-04 23:32:09,710 - DEBUG accessing data form the json file using load
+2020-02-04 23:32:09,710 - INFO practice converting to jsonfile
+2020-02-04 23:32:09,711 - INFO practice converting to dictionary
+2020-02-04 23:32:14,106 - INFO Convert dictionary to json
+2020-02-04 23:32:14,106 - DEBUG Create config File
+2020-02-04 23:32:14,106 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:32:14,107 - DEBUG dumping data to and create a json file
+2020-02-04 23:32:14,107 - INFO Convert json file into a dictionary
+2020-02-04 23:32:14,107 - DEBUG accessing data form the json file using load
+2020-02-04 23:32:14,108 - INFO practice converting to jsonfile
+2020-02-04 23:32:14,108 - INFO practice converting to dictionary
+2020-02-04 23:35:14,989 - INFO Convert dictionary to json
+2020-02-04 23:35:14,989 - DEBUG Create config File
+2020-02-04 23:35:14,990 - DEBUG dumping data to a variable using the json library
+2020-02-04 23:35:14,990 - DEBUG dumping data to and create a json file
+2020-02-04 23:35:14,990 - INFO Convert json file into a dictionary
+2020-02-04 23:35:14,990 - DEBUG accessing data form the json file using load
+2020-02-04 23:35:14,991 - INFO practice converting to jsonfile
+2020-02-04 23:35:14,992 - INFO practice converting to dictionary
+2020-02-05 12:16:33,958 - INFO Convert dictionary to json
+2020-02-05 12:16:33,974 - DEBUG Create config File
+2020-02-05 12:16:33,974 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:16:33,974 - DEBUG dumping data to and create a json file
+2020-02-05 12:16:33,975 - INFO Convert json file into a dictionary
+2020-02-05 12:16:33,975 - DEBUG accessing data form the json file using load
+2020-02-05 12:16:33,976 - INFO practice converting to jsonfile
+2020-02-05 12:16:33,976 - INFO practice converting to dictionary
+2020-02-05 12:17:31,252 - INFO Convert dictionary to json
+2020-02-05 12:17:31,252 - DEBUG Create config File
+2020-02-05 12:17:31,253 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:17:31,253 - DEBUG dumping data to and create a json file
+2020-02-05 12:17:31,253 - INFO Convert json file into a dictionary
+2020-02-05 12:17:31,253 - DEBUG accessing data form the json file using load
+2020-02-05 12:17:31,254 - INFO practice converting to jsonfile
+2020-02-05 12:17:31,254 - INFO practice converting to dictionary
+2020-02-05 12:17:32,964 - INFO Convert dictionary to json
+2020-02-05 12:17:32,964 - DEBUG Create config File
+2020-02-05 12:17:32,965 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:17:32,965 - DEBUG dumping data to and create a json file
+2020-02-05 12:17:32,965 - INFO Convert json file into a dictionary
+2020-02-05 12:17:32,965 - DEBUG accessing data form the json file using load
+2020-02-05 12:17:32,966 - INFO practice converting to jsonfile
+2020-02-05 12:17:32,966 - INFO practice converting to dictionary
+2020-02-05 12:21:39,806 - INFO Convert dictionary to json
+2020-02-05 12:21:39,806 - DEBUG Create config File
+2020-02-05 12:21:39,806 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:21:39,806 - DEBUG dumping data to and create a json file
+2020-02-05 12:21:39,807 - INFO Convert json file into a dictionary
+2020-02-05 12:21:39,807 - DEBUG accessing data form the json file using load
+2020-02-05 12:21:39,808 - INFO practice converting to jsonfile
+2020-02-05 12:21:39,808 - INFO practice converting to dictionary
+2020-02-05 12:22:25,637 - INFO Convert dictionary to json
+2020-02-05 12:22:25,637 - DEBUG Create config File
+2020-02-05 12:22:25,638 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:22:25,638 - DEBUG dumping data to and create a json file
+2020-02-05 12:22:25,638 - INFO Convert json file into a dictionary
+2020-02-05 12:22:25,638 - DEBUG accessing data form the json file using load
+2020-02-05 12:22:25,639 - INFO practice converting to jsonfile
+2020-02-05 12:22:25,639 - INFO practice converting to dictionary
+2020-02-05 12:29:12,425 - INFO Convert dictionary to json
+2020-02-05 12:29:12,426 - DEBUG Create config File
+2020-02-05 12:29:12,426 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:29:12,426 - DEBUG dumping data to and create a json file
+2020-02-05 12:29:12,426 - INFO Convert json file into a dictionary
+2020-02-05 12:29:12,427 - DEBUG accessing data form the json file using load
+2020-02-05 12:29:12,427 - INFO practice converting to jsonfile
+2020-02-05 12:29:12,428 - INFO practice converting to dictionary
+2020-02-05 12:29:14,114 - INFO Convert dictionary to json
+2020-02-05 12:29:14,114 - DEBUG Create config File
+2020-02-05 12:29:14,114 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:29:14,114 - DEBUG dumping data to and create a json file
+2020-02-05 12:29:14,115 - INFO Convert json file into a dictionary
+2020-02-05 12:29:14,115 - DEBUG accessing data form the json file using load
+2020-02-05 12:29:14,116 - INFO practice converting to jsonfile
+2020-02-05 12:29:14,116 - INFO practice converting to dictionary
+2020-02-05 12:30:06,069 - INFO Convert dictionary to json
+2020-02-05 12:30:06,069 - DEBUG Create config File
+2020-02-05 12:30:06,069 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:30:06,069 - DEBUG dumping data to and create a json file
+2020-02-05 12:30:06,070 - INFO Convert json file into a dictionary
+2020-02-05 12:30:06,070 - DEBUG accessing data form the json file using load
+2020-02-05 12:30:06,070 - INFO practice converting to jsonfile
+2020-02-05 12:30:06,071 - INFO practice converting to dictionary
+2020-02-05 12:30:07,551 - INFO Convert dictionary to json
+2020-02-05 12:30:07,551 - DEBUG Create config File
+2020-02-05 12:30:07,551 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:30:07,551 - DEBUG dumping data to and create a json file
+2020-02-05 12:30:07,552 - INFO Convert json file into a dictionary
+2020-02-05 12:30:07,552 - DEBUG accessing data form the json file using load
+2020-02-05 12:30:07,552 - INFO practice converting to jsonfile
+2020-02-05 12:30:07,553 - INFO practice converting to dictionary
+2020-02-05 12:30:33,004 - INFO Convert dictionary to json
+2020-02-05 12:30:33,004 - DEBUG Create config File
+2020-02-05 12:30:33,004 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:30:33,004 - DEBUG dumping data to and create a json file
+2020-02-05 12:30:33,005 - INFO Convert json file into a dictionary
+2020-02-05 12:30:33,005 - DEBUG accessing data form the json file using load
+2020-02-05 12:30:33,005 - INFO practice converting to jsonfile
+2020-02-05 12:30:33,006 - INFO practice converting to dictionary
+2020-02-05 12:32:14,245 - INFO Convert dictionary to json
+2020-02-05 12:32:14,246 - DEBUG Create config File
+2020-02-05 12:32:14,246 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:32:14,246 - DEBUG dumping data to and create a json file
+2020-02-05 12:32:14,246 - INFO Convert json file into a dictionary
+2020-02-05 12:32:14,246 - DEBUG accessing data form the json file using load
+2020-02-05 12:32:14,247 - INFO practice converting to jsonfile
+2020-02-05 12:32:14,248 - INFO practice converting to dictionary
+2020-02-05 12:32:15,426 - INFO Convert dictionary to json
+2020-02-05 12:32:15,426 - DEBUG Create config File
+2020-02-05 12:32:15,426 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:32:15,426 - DEBUG dumping data to and create a json file
+2020-02-05 12:32:15,426 - INFO Convert json file into a dictionary
+2020-02-05 12:32:15,427 - DEBUG accessing data form the json file using load
+2020-02-05 12:32:15,427 - INFO practice converting to jsonfile
+2020-02-05 12:32:15,427 - INFO practice converting to dictionary
+2020-02-05 12:32:49,571 - INFO Convert dictionary to json
+2020-02-05 12:32:49,571 - DEBUG Create config File
+2020-02-05 12:32:49,571 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:32:49,571 - DEBUG dumping data to and create a json file
+2020-02-05 12:32:49,572 - INFO Convert json file into a dictionary
+2020-02-05 12:32:49,572 - DEBUG accessing data form the json file using load
+2020-02-05 12:32:49,573 - INFO practice converting to jsonfile
+2020-02-05 12:32:49,573 - INFO practice converting to dictionary
+2020-02-05 12:32:50,666 - INFO Convert dictionary to json
+2020-02-05 12:32:50,666 - DEBUG Create config File
+2020-02-05 12:32:50,667 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:32:50,667 - DEBUG dumping data to and create a json file
+2020-02-05 12:32:50,667 - INFO Convert json file into a dictionary
+2020-02-05 12:32:50,667 - DEBUG accessing data form the json file using load
+2020-02-05 12:32:50,668 - INFO practice converting to jsonfile
+2020-02-05 12:32:50,669 - INFO practice converting to dictionary
+2020-02-05 12:33:17,343 - INFO Convert dictionary to json
+2020-02-05 12:33:17,343 - DEBUG Create config File
+2020-02-05 12:33:17,343 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:33:17,343 - DEBUG dumping data to and create a json file
+2020-02-05 12:33:17,344 - INFO Convert json file into a dictionary
+2020-02-05 12:33:17,344 - DEBUG accessing data form the json file using load
+2020-02-05 12:33:17,344 - INFO practice converting to jsonfile
+2020-02-05 12:33:17,345 - INFO practice converting to dictionary
+2020-02-05 12:37:50,192 - INFO Convert dictionary to json
+2020-02-05 12:37:50,192 - DEBUG Create config File
+2020-02-05 12:37:50,192 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:37:50,192 - DEBUG dumping data to and create a json file
+2020-02-05 12:37:50,193 - INFO Convert json file into a dictionary
+2020-02-05 12:37:50,193 - DEBUG accessing data form the json file using load
+2020-02-05 12:37:50,194 - INFO practice converting to jsonfile
+2020-02-05 12:37:50,194 - INFO practice converting to dictionary
+2020-02-05 12:38:55,545 - INFO Convert dictionary to json
+2020-02-05 12:38:55,546 - DEBUG Create config File
+2020-02-05 12:38:55,546 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:38:55,546 - DEBUG dumping data to and create a json file
+2020-02-05 12:38:55,546 - INFO Convert json file into a dictionary
+2020-02-05 12:38:55,547 - DEBUG accessing data form the json file using load
+2020-02-05 12:38:55,547 - INFO practice converting to jsonfile
+2020-02-05 12:38:55,548 - INFO practice converting to dictionary
+2020-02-05 12:43:11,696 - INFO Convert dictionary to json
+2020-02-05 12:43:11,697 - DEBUG Create config File
+2020-02-05 12:43:11,697 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:43:11,697 - DEBUG dumping data to and create a json file
+2020-02-05 12:43:11,698 - INFO Convert json file into a dictionary
+2020-02-05 12:43:11,698 - DEBUG accessing data form the json file using load
+2020-02-05 12:43:11,698 - INFO practice converting to jsonfile
+2020-02-05 12:43:11,699 - INFO practice converting to dictionary
+2020-02-05 12:43:28,509 - INFO Convert dictionary to json
+2020-02-05 12:43:28,509 - DEBUG Create config File
+2020-02-05 12:43:28,509 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:43:28,509 - DEBUG dumping data to and create a json file
+2020-02-05 12:43:28,510 - INFO Convert json file into a dictionary
+2020-02-05 12:43:28,510 - DEBUG accessing data form the json file using load
+2020-02-05 12:43:28,510 - INFO practice converting to jsonfile
+2020-02-05 12:43:28,511 - INFO practice converting to dictionary
+2020-02-05 12:53:23,624 - INFO Convert dictionary to json
+2020-02-05 12:53:23,624 - DEBUG Create config File
+2020-02-05 12:53:23,624 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:53:23,625 - DEBUG dumping data to and create a json file
+2020-02-05 12:53:23,625 - INFO Convert json file into a dictionary
+2020-02-05 12:53:23,625 - DEBUG accessing data form the json file using load
+2020-02-05 12:53:23,626 - INFO practice converting to jsonfile
+2020-02-05 12:53:23,627 - INFO practice converting to dictionary
+2020-02-05 12:55:47,683 - INFO Convert dictionary to json
+2020-02-05 12:55:47,683 - DEBUG Create config File
+2020-02-05 12:55:47,684 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:55:47,684 - DEBUG dumping data to and create a json file
+2020-02-05 12:55:47,685 - INFO Convert json file into a dictionary
+2020-02-05 12:55:47,685 - DEBUG accessing data form the json file using load
+2020-02-05 12:55:47,685 - INFO practice converting to jsonfile
+2020-02-05 12:55:47,686 - INFO practice converting to dictionary
+2020-02-05 12:55:53,818 - INFO Convert dictionary to json
+2020-02-05 12:55:53,818 - DEBUG Create config File
+2020-02-05 12:55:53,819 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:55:53,819 - DEBUG dumping data to and create a json file
+2020-02-05 12:55:53,820 - INFO Convert json file into a dictionary
+2020-02-05 12:55:53,820 - DEBUG accessing data form the json file using load
+2020-02-05 12:55:53,820 - INFO practice converting to jsonfile
+2020-02-05 12:55:53,821 - INFO practice converting to dictionary
+2020-02-05 12:55:58,525 - INFO Convert dictionary to json
+2020-02-05 12:55:58,526 - DEBUG Create config File
+2020-02-05 12:55:58,526 - DEBUG dumping data to a variable using the json library
+2020-02-05 12:55:58,526 - DEBUG dumping data to and create a json file
+2020-02-05 12:55:58,527 - INFO Convert json file into a dictionary
+2020-02-05 12:55:58,527 - DEBUG accessing data form the json file using load
+2020-02-05 12:55:58,527 - INFO practice converting to jsonfile
+2020-02-05 12:55:58,528 - INFO practice converting to dictionary
+2020-02-05 13:00:01,227 - INFO Convert dictionary to json
+2020-02-05 13:00:01,227 - DEBUG Create config File
+2020-02-05 13:00:01,227 - DEBUG dumping data to a variable using the json library
+2020-02-05 13:00:01,228 - DEBUG dumping data to and create a json file
+2020-02-05 13:00:01,228 - INFO Convert json file into a dictionary
+2020-02-05 13:00:01,229 - DEBUG accessing data form the json file using load
+2020-02-05 13:00:01,229 - INFO practice converting to jsonfile
+2020-02-05 13:00:01,230 - INFO practice converting to dictionary
+2020-02-05 13:29:20,957 - INFO Convert dictionary to json
+2020-02-05 13:29:20,958 - DEBUG Create config File
+2020-02-05 13:29:20,958 - DEBUG dumping data to a variable using the json library
+2020-02-05 13:29:20,958 - DEBUG dumping data to and create a json file
+2020-02-05 13:29:20,959 - INFO Convert json file into a dictionary
+2020-02-05 13:29:20,959 - DEBUG accessing data form the json file using load
+2020-02-05 13:29:20,960 - INFO practice converting to jsonfile
+2020-02-05 13:29:20,960 - INFO practice converting to dictionary
+2020-02-05 14:02:33,925 - INFO Convert dictionary to json
+2020-02-05 14:02:33,925 - DEBUG Create config File
+2020-02-05 14:02:33,925 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:02:33,926 - DEBUG dumping data to and create a json file
+2020-02-05 14:02:33,926 - INFO Convert json file into a dictionary
+2020-02-05 14:02:33,926 - DEBUG accessing data form the json file using load
+2020-02-05 14:02:33,927 - INFO practice converting to jsonfile
+2020-02-05 14:02:33,928 - INFO practice converting to dictionary
+2020-02-05 14:08:02,971 - INFO Convert dictionary to json
+2020-02-05 14:08:02,971 - DEBUG Create config File
+2020-02-05 14:08:02,971 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:08:02,971 - DEBUG dumping data to and create a json file
+2020-02-05 14:08:02,972 - INFO Convert json file into a dictionary
+2020-02-05 14:08:02,972 - DEBUG accessing data form the json file using load
+2020-02-05 14:08:02,973 - INFO practice converting to jsonfile
+2020-02-05 14:08:02,973 - INFO practice converting to dictionary
+2020-02-05 14:08:35,731 - INFO Convert dictionary to json
+2020-02-05 14:08:35,731 - DEBUG Create config File
+2020-02-05 14:08:35,731 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:08:35,731 - DEBUG dumping data to and create a json file
+2020-02-05 14:08:35,732 - INFO Convert json file into a dictionary
+2020-02-05 14:08:35,732 - DEBUG accessing data form the json file using load
+2020-02-05 14:08:35,733 - INFO practice converting to jsonfile
+2020-02-05 14:08:35,734 - INFO practice converting to dictionary
+2020-02-05 14:22:41,004 - INFO Convert dictionary to json
+2020-02-05 14:22:41,004 - DEBUG Create config File
+2020-02-05 14:22:41,004 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:22:41,005 - DEBUG dumping data to and create a json file
+2020-02-05 14:22:41,005 - INFO Convert json file into a dictionary
+2020-02-05 14:22:41,005 - DEBUG accessing data form the json file using load
+2020-02-05 14:22:41,006 - INFO practice converting to jsonfile
+2020-02-05 14:22:41,007 - INFO practice converting to dictionary
+2020-02-05 14:23:35,231 - INFO Convert dictionary to json
+2020-02-05 14:23:35,231 - DEBUG Create config File
+2020-02-05 14:23:35,231 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:23:35,232 - DEBUG dumping data to and create a json file
+2020-02-05 14:23:35,232 - INFO Convert json file into a dictionary
+2020-02-05 14:23:35,232 - DEBUG accessing data form the json file using load
+2020-02-05 14:23:35,233 - INFO practice converting to jsonfile
+2020-02-05 14:23:35,234 - INFO practice converting to dictionary
+2020-02-05 14:26:32,307 - INFO Convert dictionary to json
+2020-02-05 14:26:32,307 - DEBUG Create config File
+2020-02-05 14:26:32,307 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:26:32,307 - DEBUG dumping data to and create a json file
+2020-02-05 14:26:32,308 - INFO Convert json file into a dictionary
+2020-02-05 14:26:32,308 - DEBUG accessing data form the json file using load
+2020-02-05 14:26:32,309 - INFO practice converting to jsonfile
+2020-02-05 14:26:32,310 - INFO practice converting to dictionary
+2020-02-05 14:26:34,006 - INFO Convert dictionary to json
+2020-02-05 14:26:34,006 - DEBUG Create config File
+2020-02-05 14:26:34,006 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:26:34,006 - DEBUG dumping data to and create a json file
+2020-02-05 14:26:34,007 - INFO Convert json file into a dictionary
+2020-02-05 14:26:34,007 - DEBUG accessing data form the json file using load
+2020-02-05 14:26:34,008 - INFO practice converting to jsonfile
+2020-02-05 14:26:34,008 - INFO practice converting to dictionary
+2020-02-05 14:27:08,582 - INFO Convert dictionary to json
+2020-02-05 14:27:08,582 - DEBUG Create config File
+2020-02-05 14:27:08,582 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:27:08,583 - DEBUG dumping data to and create a json file
+2020-02-05 14:27:08,583 - INFO Convert json file into a dictionary
+2020-02-05 14:27:08,584 - DEBUG accessing data form the json file using load
+2020-02-05 14:27:08,584 - INFO practice converting to jsonfile
+2020-02-05 14:27:08,585 - INFO practice converting to dictionary
+2020-02-05 14:28:22,109 - INFO Convert dictionary to json
+2020-02-05 14:28:22,109 - DEBUG Create config File
+2020-02-05 14:28:22,109 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:28:22,109 - DEBUG dumping data to and create a json file
+2020-02-05 14:28:22,110 - INFO Convert json file into a dictionary
+2020-02-05 14:28:22,110 - DEBUG accessing data form the json file using load
+2020-02-05 14:28:22,110 - INFO practice converting to jsonfile
+2020-02-05 14:28:22,111 - INFO practice converting to dictionary
+2020-02-05 14:28:48,152 - INFO Convert dictionary to json
+2020-02-05 14:28:48,152 - DEBUG Create config File
+2020-02-05 14:28:48,152 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:28:48,153 - DEBUG dumping data to and create a json file
+2020-02-05 14:28:48,153 - INFO Convert json file into a dictionary
+2020-02-05 14:28:48,153 - DEBUG accessing data form the json file using load
+2020-02-05 14:28:48,154 - INFO practice converting to jsonfile
+2020-02-05 14:28:48,155 - INFO practice converting to dictionary
+2020-02-05 14:31:34,311 - INFO Convert dictionary to json
+2020-02-05 14:31:34,311 - DEBUG Create config File
+2020-02-05 14:31:34,311 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:31:34,312 - DEBUG dumping data to and create a json file
+2020-02-05 14:31:34,312 - INFO Convert json file into a dictionary
+2020-02-05 14:31:34,312 - DEBUG accessing data form the json file using load
+2020-02-05 14:31:34,313 - INFO practice converting to jsonfile
+2020-02-05 14:31:34,314 - INFO practice converting to dictionary
+2020-02-05 14:32:59,183 - INFO Convert dictionary to json
+2020-02-05 14:32:59,183 - DEBUG Create config File
+2020-02-05 14:32:59,183 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:32:59,183 - DEBUG dumping data to and create a json file
+2020-02-05 14:32:59,184 - INFO Convert json file into a dictionary
+2020-02-05 14:32:59,184 - DEBUG accessing data form the json file using load
+2020-02-05 14:32:59,184 - INFO practice converting to jsonfile
+2020-02-05 14:32:59,185 - INFO practice converting to dictionary
+2020-02-05 14:34:03,032 - INFO Convert dictionary to json
+2020-02-05 14:34:03,032 - DEBUG Create config File
+2020-02-05 14:34:03,032 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:34:03,032 - DEBUG dumping data to and create a json file
+2020-02-05 14:34:03,033 - INFO Convert json file into a dictionary
+2020-02-05 14:34:03,033 - DEBUG accessing data form the json file using load
+2020-02-05 14:34:03,034 - INFO practice converting to jsonfile
+2020-02-05 14:34:03,034 - INFO practice converting to dictionary
+2020-02-05 14:36:52,044 - INFO Convert dictionary to json
+2020-02-05 14:36:52,044 - DEBUG Create config File
+2020-02-05 14:36:52,045 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:36:52,045 - DEBUG dumping data to and create a json file
+2020-02-05 14:36:52,046 - INFO Convert json file into a dictionary
+2020-02-05 14:36:52,046 - DEBUG accessing data form the json file using load
+2020-02-05 14:36:52,046 - INFO practice converting to jsonfile
+2020-02-05 14:36:52,047 - INFO practice converting to dictionary
+2020-02-05 14:42:50,678 - INFO Convert dictionary to json
+2020-02-05 14:42:50,678 - DEBUG Create config File
+2020-02-05 14:42:50,678 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:42:50,678 - DEBUG dumping data to and create a json file
+2020-02-05 14:42:50,679 - INFO Convert json file into a dictionary
+2020-02-05 14:42:50,679 - DEBUG accessing data form the json file using load
+2020-02-05 14:42:50,680 - INFO practice converting to jsonfile
+2020-02-05 14:42:50,680 - INFO practice converting to dictionary
+2020-02-05 14:44:55,488 - INFO Convert dictionary to json
+2020-02-05 14:44:55,488 - DEBUG Create config File
+2020-02-05 14:44:55,488 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:44:55,488 - DEBUG dumping data to and create a json file
+2020-02-05 14:44:55,489 - INFO Convert json file into a dictionary
+2020-02-05 14:44:55,489 - DEBUG accessing data form the json file using load
+2020-02-05 14:44:55,490 - INFO practice converting to jsonfile
+2020-02-05 14:44:55,490 - INFO practice converting to dictionary
+2020-02-05 14:45:25,700 - INFO Convert dictionary to json
+2020-02-05 14:45:25,701 - DEBUG Create config File
+2020-02-05 14:45:25,701 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:45:25,701 - DEBUG dumping data to and create a json file
+2020-02-05 14:45:25,702 - INFO Convert json file into a dictionary
+2020-02-05 14:45:25,702 - DEBUG accessing data form the json file using load
+2020-02-05 14:45:25,702 - INFO practice converting to jsonfile
+2020-02-05 14:45:25,703 - INFO practice converting to dictionary
+2020-02-05 14:47:54,056 - INFO Convert dictionary to json
+2020-02-05 14:47:54,057 - DEBUG Create config File
+2020-02-05 14:47:54,057 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:47:54,057 - DEBUG dumping data to and create a json file
+2020-02-05 14:47:54,058 - INFO Convert json file into a dictionary
+2020-02-05 14:47:54,058 - DEBUG accessing data form the json file using load
+2020-02-05 14:47:54,058 - INFO practice converting to jsonfile
+2020-02-05 14:47:54,059 - INFO practice converting to dictionary
+2020-02-05 14:48:40,165 - INFO Convert dictionary to json
+2020-02-05 14:48:40,165 - DEBUG Create config File
+2020-02-05 14:48:40,165 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:48:40,165 - DEBUG dumping data to and create a json file
+2020-02-05 14:48:40,166 - INFO Convert json file into a dictionary
+2020-02-05 14:48:40,166 - DEBUG accessing data form the json file using load
+2020-02-05 14:48:40,167 - INFO practice converting to jsonfile
+2020-02-05 14:48:40,167 - INFO practice converting to dictionary
+2020-02-05 14:49:09,661 - INFO Convert dictionary to json
+2020-02-05 14:49:09,661 - DEBUG Create config File
+2020-02-05 14:49:09,661 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:49:09,661 - DEBUG dumping data to and create a json file
+2020-02-05 14:49:09,662 - INFO Convert json file into a dictionary
+2020-02-05 14:49:09,662 - DEBUG accessing data form the json file using load
+2020-02-05 14:49:09,662 - INFO practice converting to jsonfile
+2020-02-05 14:49:09,663 - INFO practice converting to dictionary
+2020-02-05 14:49:35,690 - INFO Convert dictionary to json
+2020-02-05 14:49:35,690 - DEBUG Create config File
+2020-02-05 14:49:35,690 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:49:35,691 - DEBUG dumping data to and create a json file
+2020-02-05 14:49:35,691 - INFO Convert json file into a dictionary
+2020-02-05 14:49:35,691 - DEBUG accessing data form the json file using load
+2020-02-05 14:49:35,692 - INFO practice converting to jsonfile
+2020-02-05 14:49:35,693 - INFO practice converting to dictionary
+2020-02-05 14:49:52,058 - INFO Convert dictionary to json
+2020-02-05 14:49:52,058 - DEBUG Create config File
+2020-02-05 14:49:52,058 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:49:52,058 - DEBUG dumping data to and create a json file
+2020-02-05 14:49:52,059 - INFO Convert json file into a dictionary
+2020-02-05 14:49:52,059 - DEBUG accessing data form the json file using load
+2020-02-05 14:49:52,060 - INFO practice converting to jsonfile
+2020-02-05 14:49:52,060 - INFO practice converting to dictionary
+2020-02-05 14:54:14,999 - INFO Convert dictionary to json
+2020-02-05 14:54:14,999 - DEBUG Create config File
+2020-02-05 14:54:14,999 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:54:14,999 - DEBUG dumping data to and create a json file
+2020-02-05 14:54:15,000 - INFO Convert json file into a dictionary
+2020-02-05 14:54:15,000 - DEBUG accessing data form the json file using load
+2020-02-05 14:54:15,001 - INFO practice converting to jsonfile
+2020-02-05 14:54:15,001 - INFO practice converting to dictionary
+2020-02-05 14:54:35,242 - INFO Convert dictionary to json
+2020-02-05 14:54:35,242 - DEBUG Create config File
+2020-02-05 14:54:35,242 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:54:35,242 - DEBUG dumping data to and create a json file
+2020-02-05 14:54:35,243 - INFO Convert json file into a dictionary
+2020-02-05 14:54:35,243 - DEBUG accessing data form the json file using load
+2020-02-05 14:54:35,244 - INFO practice converting to jsonfile
+2020-02-05 14:54:35,245 - INFO practice converting to dictionary
+2020-02-05 14:56:20,774 - INFO Convert dictionary to json
+2020-02-05 14:56:20,775 - DEBUG Create config File
+2020-02-05 14:56:20,775 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:56:20,775 - DEBUG dumping data to and create a json file
+2020-02-05 14:56:20,776 - INFO Convert json file into a dictionary
+2020-02-05 14:56:20,776 - DEBUG accessing data form the json file using load
+2020-02-05 14:56:20,777 - INFO practice converting to jsonfile
+2020-02-05 14:56:20,777 - INFO practice converting to dictionary
+2020-02-05 14:57:11,588 - INFO Convert dictionary to json
+2020-02-05 14:57:11,588 - DEBUG Create config File
+2020-02-05 14:57:11,589 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:57:11,589 - DEBUG dumping data to and create a json file
+2020-02-05 14:57:11,589 - INFO Convert json file into a dictionary
+2020-02-05 14:57:11,590 - DEBUG accessing data form the json file using load
+2020-02-05 14:57:11,590 - INFO practice converting to jsonfile
+2020-02-05 14:57:11,591 - INFO practice converting to dictionary
+2020-02-05 14:57:17,678 - INFO Convert dictionary to json
+2020-02-05 14:57:17,678 - DEBUG Create config File
+2020-02-05 14:57:17,678 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:57:17,678 - DEBUG dumping data to and create a json file
+2020-02-05 14:57:17,679 - INFO Convert json file into a dictionary
+2020-02-05 14:57:17,679 - DEBUG accessing data form the json file using load
+2020-02-05 14:57:17,679 - INFO practice converting to jsonfile
+2020-02-05 14:57:17,680 - INFO practice converting to dictionary
+2020-02-05 14:57:19,114 - INFO Convert dictionary to json
+2020-02-05 14:57:19,114 - DEBUG Create config File
+2020-02-05 14:57:19,114 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:57:19,114 - DEBUG dumping data to and create a json file
+2020-02-05 14:57:19,115 - INFO Convert json file into a dictionary
+2020-02-05 14:57:19,115 - DEBUG accessing data form the json file using load
+2020-02-05 14:57:19,116 - INFO practice converting to jsonfile
+2020-02-05 14:57:19,116 - INFO practice converting to dictionary
+2020-02-05 14:57:39,936 - INFO Convert dictionary to json
+2020-02-05 14:57:39,936 - DEBUG Create config File
+2020-02-05 14:57:39,936 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:57:39,937 - DEBUG dumping data to and create a json file
+2020-02-05 14:57:39,937 - INFO Convert json file into a dictionary
+2020-02-05 14:57:39,937 - DEBUG accessing data form the json file using load
+2020-02-05 14:57:39,938 - INFO practice converting to jsonfile
+2020-02-05 14:57:39,939 - INFO practice converting to dictionary
+2020-02-05 14:58:03,354 - INFO Convert dictionary to json
+2020-02-05 14:58:03,354 - DEBUG Create config File
+2020-02-05 14:58:03,354 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:58:03,354 - DEBUG dumping data to and create a json file
+2020-02-05 14:58:03,355 - INFO Convert json file into a dictionary
+2020-02-05 14:58:03,355 - DEBUG accessing data form the json file using load
+2020-02-05 14:58:03,356 - INFO practice converting to jsonfile
+2020-02-05 14:58:03,357 - INFO practice converting to dictionary
+2020-02-05 14:58:35,751 - INFO Convert dictionary to json
+2020-02-05 14:58:35,751 - DEBUG Create config File
+2020-02-05 14:58:35,751 - DEBUG dumping data to a variable using the json library
+2020-02-05 14:58:35,752 - DEBUG dumping data to and create a json file
+2020-02-05 14:58:35,752 - INFO Convert json file into a dictionary
+2020-02-05 14:58:35,753 - DEBUG accessing data form the json file using load
+2020-02-05 14:58:35,753 - INFO practice converting to jsonfile
+2020-02-05 14:58:35,754 - INFO practice converting to dictionary
+2020-02-05 15:00:13,739 - INFO Convert dictionary to json
+2020-02-05 15:00:13,739 - DEBUG Create config File
+2020-02-05 15:00:13,739 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:00:13,739 - DEBUG dumping data to and create a json file
+2020-02-05 15:00:13,740 - INFO Convert json file into a dictionary
+2020-02-05 15:00:13,740 - DEBUG accessing data form the json file using load
+2020-02-05 15:00:13,740 - INFO practice converting to jsonfile
+2020-02-05 15:00:13,741 - INFO practice converting to dictionary
+2020-02-05 15:00:15,020 - INFO Convert dictionary to json
+2020-02-05 15:00:15,021 - DEBUG Create config File
+2020-02-05 15:00:15,021 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:00:15,021 - DEBUG dumping data to and create a json file
+2020-02-05 15:00:15,022 - INFO Convert json file into a dictionary
+2020-02-05 15:00:15,022 - DEBUG accessing data form the json file using load
+2020-02-05 15:00:15,023 - INFO practice converting to jsonfile
+2020-02-05 15:00:15,023 - INFO practice converting to dictionary
+2020-02-05 15:00:23,705 - INFO Convert dictionary to json
+2020-02-05 15:00:23,705 - DEBUG Create config File
+2020-02-05 15:00:23,706 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:00:23,706 - DEBUG dumping data to and create a json file
+2020-02-05 15:00:23,706 - INFO Convert json file into a dictionary
+2020-02-05 15:00:23,707 - DEBUG accessing data form the json file using load
+2020-02-05 15:00:23,707 - INFO practice converting to jsonfile
+2020-02-05 15:00:23,708 - INFO practice converting to dictionary
+2020-02-05 15:02:52,894 - INFO Convert dictionary to json
+2020-02-05 15:02:52,894 - DEBUG Create config File
+2020-02-05 15:02:52,894 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:02:52,894 - DEBUG dumping data to and create a json file
+2020-02-05 15:02:52,895 - INFO Convert json file into a dictionary
+2020-02-05 15:02:52,895 - DEBUG accessing data form the json file using load
+2020-02-05 15:02:52,895 - INFO practice converting to jsonfile
+2020-02-05 15:02:52,896 - INFO practice converting to dictionary
+2020-02-05 15:03:59,661 - INFO Convert dictionary to json
+2020-02-05 15:03:59,661 - DEBUG Create config File
+2020-02-05 15:03:59,661 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:03:59,661 - DEBUG dumping data to and create a json file
+2020-02-05 15:03:59,662 - INFO Convert json file into a dictionary
+2020-02-05 15:03:59,662 - DEBUG accessing data form the json file using load
+2020-02-05 15:03:59,663 - INFO practice converting to jsonfile
+2020-02-05 15:03:59,664 - INFO practice converting to dictionary
+2020-02-05 15:04:13,781 - INFO Convert dictionary to json
+2020-02-05 15:04:13,781 - DEBUG Create config File
+2020-02-05 15:04:13,781 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:04:13,781 - DEBUG dumping data to and create a json file
+2020-02-05 15:04:13,782 - INFO Convert json file into a dictionary
+2020-02-05 15:04:13,782 - DEBUG accessing data form the json file using load
+2020-02-05 15:04:13,783 - INFO practice converting to jsonfile
+2020-02-05 15:04:13,784 - INFO practice converting to dictionary
+2020-02-05 15:04:24,589 - INFO Convert dictionary to json
+2020-02-05 15:04:24,589 - DEBUG Create config File
+2020-02-05 15:04:24,589 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:04:24,589 - DEBUG dumping data to and create a json file
+2020-02-05 15:04:24,590 - INFO Convert json file into a dictionary
+2020-02-05 15:04:24,590 - DEBUG accessing data form the json file using load
+2020-02-05 15:04:24,591 - INFO practice converting to jsonfile
+2020-02-05 15:04:24,592 - INFO practice converting to dictionary
+2020-02-05 15:05:21,332 - INFO Convert dictionary to json
+2020-02-05 15:05:21,332 - DEBUG Create config File
+2020-02-05 15:05:21,332 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:05:21,332 - DEBUG dumping data to and create a json file
+2020-02-05 15:05:21,333 - INFO Convert json file into a dictionary
+2020-02-05 15:05:21,333 - DEBUG accessing data form the json file using load
+2020-02-05 15:05:21,333 - INFO practice converting to jsonfile
+2020-02-05 15:05:21,334 - INFO practice converting to dictionary
+2020-02-05 15:09:24,475 - INFO Convert dictionary to json
+2020-02-05 15:09:24,475 - DEBUG Create config File
+2020-02-05 15:09:24,475 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:09:24,475 - DEBUG dumping data to and create a json file
+2020-02-05 15:09:24,476 - INFO Convert json file into a dictionary
+2020-02-05 15:09:24,476 - DEBUG accessing data form the json file using load
+2020-02-05 15:09:24,477 - INFO practice converting to jsonfile
+2020-02-05 15:09:24,477 - INFO practice converting to dictionary
+2020-02-05 15:09:47,124 - INFO Convert dictionary to json
+2020-02-05 15:09:47,124 - DEBUG Create config File
+2020-02-05 15:09:47,124 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:09:47,124 - DEBUG dumping data to and create a json file
+2020-02-05 15:09:47,125 - INFO Convert json file into a dictionary
+2020-02-05 15:09:47,125 - DEBUG accessing data form the json file using load
+2020-02-05 15:09:47,126 - INFO practice converting to jsonfile
+2020-02-05 15:09:47,126 - INFO practice converting to dictionary
+2020-02-05 15:10:49,611 - INFO Convert dictionary to json
+2020-02-05 15:10:49,611 - DEBUG Create config File
+2020-02-05 15:10:49,611 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:10:49,611 - DEBUG dumping data to and create a json file
+2020-02-05 15:10:49,612 - INFO Convert json file into a dictionary
+2020-02-05 15:10:49,612 - DEBUG accessing data form the json file using load
+2020-02-05 15:10:49,613 - INFO practice converting to jsonfile
+2020-02-05 15:10:49,613 - INFO practice converting to dictionary
+2020-02-05 15:11:19,700 - INFO Convert dictionary to json
+2020-02-05 15:11:19,700 - DEBUG Create config File
+2020-02-05 15:11:19,700 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:11:19,700 - DEBUG dumping data to and create a json file
+2020-02-05 15:11:19,701 - INFO Convert json file into a dictionary
+2020-02-05 15:11:19,701 - DEBUG accessing data form the json file using load
+2020-02-05 15:11:19,702 - INFO practice converting to jsonfile
+2020-02-05 15:11:19,703 - INFO practice converting to dictionary
+2020-02-05 15:12:10,332 - INFO Convert dictionary to json
+2020-02-05 15:12:10,332 - DEBUG Create config File
+2020-02-05 15:12:10,332 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:12:10,333 - DEBUG dumping data to and create a json file
+2020-02-05 15:12:10,333 - INFO Convert json file into a dictionary
+2020-02-05 15:12:10,334 - DEBUG accessing data form the json file using load
+2020-02-05 15:12:10,334 - INFO practice converting to jsonfile
+2020-02-05 15:12:10,335 - INFO practice converting to dictionary
+2020-02-05 15:12:40,328 - INFO Convert dictionary to json
+2020-02-05 15:12:40,328 - DEBUG Create config File
+2020-02-05 15:12:40,328 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:12:40,329 - DEBUG dumping data to and create a json file
+2020-02-05 15:12:40,329 - INFO Convert json file into a dictionary
+2020-02-05 15:12:40,330 - DEBUG accessing data form the json file using load
+2020-02-05 15:12:40,330 - INFO practice converting to jsonfile
+2020-02-05 15:12:40,331 - INFO practice converting to dictionary
+2020-02-05 15:16:36,385 - INFO Convert dictionary to json
+2020-02-05 15:16:36,385 - DEBUG Create config File
+2020-02-05 15:16:36,385 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:16:36,385 - DEBUG dumping data to and create a json file
+2020-02-05 15:16:36,386 - INFO Convert json file into a dictionary
+2020-02-05 15:16:36,386 - DEBUG accessing data form the json file using load
+2020-02-05 15:16:36,386 - INFO practice converting to jsonfile
+2020-02-05 15:16:36,387 - INFO practice converting to dictionary
+2020-02-05 15:25:13,005 - INFO Convert dictionary to json
+2020-02-05 15:25:13,005 - DEBUG Create config File
+2020-02-05 15:25:13,005 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:25:13,005 - DEBUG dumping data to and create a json file
+2020-02-05 15:25:13,006 - INFO Convert json file into a dictionary
+2020-02-05 15:25:13,006 - DEBUG accessing data form the json file using load
+2020-02-05 15:25:13,006 - INFO practice converting to jsonfile
+2020-02-05 15:25:13,007 - INFO practice converting to dictionary
+2020-02-05 15:25:48,020 - INFO Convert dictionary to json
+2020-02-05 15:25:48,020 - DEBUG Create config File
+2020-02-05 15:25:48,020 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:25:48,020 - DEBUG dumping data to and create a json file
+2020-02-05 15:25:48,021 - INFO Convert json file into a dictionary
+2020-02-05 15:25:48,021 - DEBUG accessing data form the json file using load
+2020-02-05 15:25:48,022 - INFO practice converting to jsonfile
+2020-02-05 15:25:48,022 - INFO practice converting to dictionary
+2020-02-05 15:33:25,238 - INFO Convert dictionary to json
+2020-02-05 15:33:25,239 - DEBUG Create config File
+2020-02-05 15:33:25,239 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:33:25,239 - DEBUG dumping data to and create a json file
+2020-02-05 15:33:25,240 - INFO Convert json file into a dictionary
+2020-02-05 15:33:25,240 - DEBUG accessing data form the json file using load
+2020-02-05 15:33:25,240 - INFO practice converting to jsonfile
+2020-02-05 15:33:25,241 - INFO practice converting to dictionary
+2020-02-05 15:35:23,123 - INFO Convert dictionary to json
+2020-02-05 15:35:23,124 - DEBUG Create config File
+2020-02-05 15:35:23,124 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:35:23,124 - DEBUG dumping data to and create a json file
+2020-02-05 15:35:23,125 - INFO Convert json file into a dictionary
+2020-02-05 15:35:23,125 - DEBUG accessing data form the json file using load
+2020-02-05 15:35:23,125 - INFO practice converting to jsonfile
+2020-02-05 15:35:23,126 - INFO practice converting to dictionary
+2020-02-05 15:37:13,606 - INFO Convert dictionary to json
+2020-02-05 15:37:13,606 - DEBUG Create config File
+2020-02-05 15:37:13,607 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:37:13,607 - DEBUG dumping data to and create a json file
+2020-02-05 15:37:13,608 - INFO Convert json file into a dictionary
+2020-02-05 15:37:13,608 - DEBUG accessing data form the json file using load
+2020-02-05 15:37:13,608 - INFO practice converting to jsonfile
+2020-02-05 15:37:13,609 - INFO practice converting to dictionary
+2020-02-05 15:37:34,410 - INFO Convert dictionary to json
+2020-02-05 15:37:34,410 - DEBUG Create config File
+2020-02-05 15:37:34,411 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:37:34,411 - DEBUG dumping data to and create a json file
+2020-02-05 15:37:34,411 - INFO Convert json file into a dictionary
+2020-02-05 15:37:34,411 - DEBUG accessing data form the json file using load
+2020-02-05 15:37:34,412 - INFO practice converting to jsonfile
+2020-02-05 15:37:34,412 - INFO practice converting to dictionary
+2020-02-05 15:39:04,817 - INFO Convert dictionary to json
+2020-02-05 15:39:04,817 - DEBUG Create config File
+2020-02-05 15:39:04,817 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:39:04,817 - DEBUG dumping data to and create a json file
+2020-02-05 15:39:04,818 - INFO Convert json file into a dictionary
+2020-02-05 15:39:04,818 - DEBUG accessing data form the json file using load
+2020-02-05 15:39:04,819 - INFO practice converting to jsonfile
+2020-02-05 15:39:04,820 - INFO practice converting to dictionary
+2020-02-05 15:39:30,954 - INFO Convert dictionary to json
+2020-02-05 15:39:30,955 - DEBUG Create config File
+2020-02-05 15:39:30,955 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:39:30,955 - DEBUG dumping data to and create a json file
+2020-02-05 15:39:30,956 - INFO Convert json file into a dictionary
+2020-02-05 15:39:30,956 - DEBUG accessing data form the json file using load
+2020-02-05 15:39:30,956 - INFO practice converting to jsonfile
+2020-02-05 15:39:30,957 - INFO practice converting to dictionary
+2020-02-05 15:59:17,570 - INFO Convert dictionary to json
+2020-02-05 15:59:17,571 - DEBUG Create config File
+2020-02-05 15:59:17,571 - DEBUG dumping data to a variable using the json library
+2020-02-05 15:59:17,571 - DEBUG dumping data to and create a json file
+2020-02-05 15:59:17,572 - INFO Convert json file into a dictionary
+2020-02-05 15:59:17,572 - DEBUG accessing data form the json file using load
+2020-02-05 15:59:17,572 - INFO practice converting to jsonfile
+2020-02-05 15:59:17,573 - INFO practice converting to dictionary
+2020-02-05 16:00:29,464 - INFO Convert dictionary to json
+2020-02-05 16:00:29,464 - DEBUG Create config File
+2020-02-05 16:00:29,464 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:00:29,464 - DEBUG dumping data to and create a json file
+2020-02-05 16:00:29,465 - INFO Convert json file into a dictionary
+2020-02-05 16:00:29,465 - DEBUG accessing data form the json file using load
+2020-02-05 16:00:29,466 - INFO practice converting to jsonfile
+2020-02-05 16:00:29,466 - INFO practice converting to dictionary
+2020-02-05 16:05:25,863 - INFO Convert dictionary to json
+2020-02-05 16:05:25,863 - DEBUG Create config File
+2020-02-05 16:05:25,863 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:05:25,863 - DEBUG dumping data to and create a json file
+2020-02-05 16:05:25,864 - INFO Convert json file into a dictionary
+2020-02-05 16:05:25,864 - DEBUG accessing data form the json file using load
+2020-02-05 16:05:25,865 - INFO practice converting to jsonfile
+2020-02-05 16:05:25,866 - INFO practice converting to dictionary
+2020-02-05 16:05:27,302 - INFO Convert dictionary to json
+2020-02-05 16:05:27,302 - DEBUG Create config File
+2020-02-05 16:05:27,303 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:05:27,303 - DEBUG dumping data to and create a json file
+2020-02-05 16:05:27,304 - INFO Convert json file into a dictionary
+2020-02-05 16:05:27,304 - DEBUG accessing data form the json file using load
+2020-02-05 16:05:27,305 - INFO practice converting to jsonfile
+2020-02-05 16:05:27,305 - INFO practice converting to dictionary
+2020-02-05 16:06:04,465 - INFO Convert dictionary to json
+2020-02-05 16:06:04,465 - DEBUG Create config File
+2020-02-05 16:06:04,465 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:06:04,465 - DEBUG dumping data to and create a json file
+2020-02-05 16:06:04,466 - INFO Convert json file into a dictionary
+2020-02-05 16:06:04,466 - DEBUG accessing data form the json file using load
+2020-02-05 16:06:04,466 - INFO practice converting to jsonfile
+2020-02-05 16:06:04,467 - INFO practice converting to dictionary
+2020-02-05 16:07:43,836 - INFO Convert dictionary to json
+2020-02-05 16:07:43,837 - DEBUG Create config File
+2020-02-05 16:07:43,837 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:07:43,837 - DEBUG dumping data to and create a json file
+2020-02-05 16:07:43,838 - INFO Convert json file into a dictionary
+2020-02-05 16:07:43,838 - DEBUG accessing data form the json file using load
+2020-02-05 16:07:43,838 - INFO practice converting to jsonfile
+2020-02-05 16:07:43,839 - INFO practice converting to dictionary
+2020-02-05 16:07:52,545 - INFO Convert dictionary to json
+2020-02-05 16:07:52,545 - DEBUG Create config File
+2020-02-05 16:07:52,545 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:07:52,545 - DEBUG dumping data to and create a json file
+2020-02-05 16:07:52,546 - INFO Convert json file into a dictionary
+2020-02-05 16:07:52,546 - DEBUG accessing data form the json file using load
+2020-02-05 16:07:52,546 - INFO practice converting to jsonfile
+2020-02-05 16:07:52,547 - INFO practice converting to dictionary
+2020-02-05 16:08:29,201 - INFO Convert dictionary to json
+2020-02-05 16:08:29,201 - DEBUG Create config File
+2020-02-05 16:08:29,201 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:08:29,201 - DEBUG dumping data to and create a json file
+2020-02-05 16:08:29,202 - INFO Convert json file into a dictionary
+2020-02-05 16:08:29,202 - DEBUG accessing data form the json file using load
+2020-02-05 16:08:29,202 - INFO practice converting to jsonfile
+2020-02-05 16:08:29,203 - INFO practice converting to dictionary
+2020-02-05 16:08:30,545 - INFO Convert dictionary to json
+2020-02-05 16:08:30,545 - DEBUG Create config File
+2020-02-05 16:08:30,545 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:08:30,546 - DEBUG dumping data to and create a json file
+2020-02-05 16:08:30,546 - INFO Convert json file into a dictionary
+2020-02-05 16:08:30,546 - DEBUG accessing data form the json file using load
+2020-02-05 16:08:30,547 - INFO practice converting to jsonfile
+2020-02-05 16:08:30,547 - INFO practice converting to dictionary
+2020-02-05 16:09:04,490 - INFO Convert dictionary to json
+2020-02-05 16:09:04,490 - DEBUG Create config File
+2020-02-05 16:09:04,490 - DEBUG dumping data to a variable using the json library
+2020-02-05 16:09:04,490 - DEBUG dumping data to and create a json file
+2020-02-05 16:09:04,491 - INFO Convert json file into a dictionary
+2020-02-05 16:09:04,491 - DEBUG accessing data form the json file using load
+2020-02-05 16:09:04,492 - INFO practice converting to jsonfile
+2020-02-05 16:09:04,493 - INFO practice converting to dictionary
+2020-02-05 18:22:37,304 - INFO Convert dictionary to json
+2020-02-05 18:22:37,304 - DEBUG Create config File
+2020-02-05 18:22:37,305 - DEBUG dumping data to a variable using the json library
+2020-02-05 18:22:37,305 - DEBUG dumping data to and create a json file
+2020-02-05 18:22:37,305 - INFO Convert json file into a dictionary
+2020-02-05 18:22:37,306 - DEBUG accessing data form the json file using load
+2020-02-05 18:22:37,306 - INFO practice converting to jsonfile
+2020-02-05 18:22:37,307 - INFO practice converting to dictionary
